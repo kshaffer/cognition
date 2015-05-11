@@ -65,23 +65,35 @@ Week 5 (June 29–July 3): Final projects and reassessments
 
 Students will be provided with the following informational resources to engage during each unit:
 
-*Readings* drawn from the required textbooks, and occasional supplemental resources such as scholarly articles from the field.
+**Readings** drawn from the required textbooks, and occasional supplemental resources such as scholarly articles from the field.
 
-*Videos* created by me, which will offer audio/visual explanations of concepts in the reading, demonstrations of how those concepts are applied in specific situations, contradictory perspectives to those expressed in the readings, and alternative explanations.
+**Videos** created by me, which will offer audio/visual explanations of concepts in the reading, demonstrations of how those concepts are applied in specific situations, contradictory perspectives to those expressed in the readings, and alternative explanations.
 
-*Core concept lists* will be provided for each unit, which will form the basis for the conceptual videos and maps (and assessment requirements) listed below.
+**Core concept lists** will be provided for each unit, which will form the basis for the conceptual videos and maps (and assessment requirements) listed below.
 
 We will also have a private discussion forum for registered students (D2L), a public discussion forum (Twitter, using the hashtag #muscog), and twice-weekly video-chat office hours. These are the primary places for you to ask questions of clarification, to compare notes with each other as you work on assignments, and for me to ask provocative questions about the readings, videos, and potential points of application.
 
 Assessed coursework will include the following:
 
+### Reading/video quizzes
+
+There will be two reading/video assignments each week, with reading quizzes due to be completed by 3pm on Monday and Wednesday of each week. Each quiz will contain approximately 10 questions, two-thirds of which involve the raw regurgitation of information, one-third of which require higher-level thinking to arrive at an answer not made explicitly in the reading/video. You are strongly encouraged to collaborate on answering these questions accurately. Use the D2L forum, the Twitter #muscog hashtag, or other interpersonal communication to work together towards a joint solution — in small groups or as a whole class. 
+
+50% or greater accuracy on the quiz will earn one assessment point, 90% or greater accuracy will earn the full two points. This means that you only have room for one incorrect answer to receive full credit, so make sure that your are confident in its accuracy, no matter which of your colleagues contributed to the group answer.
+
 ### Conceptual videos
 
 For most core concepts in a unit of study (the exact number posted on each week's assignment page), create a video of *no more than 60 seconds* in which you explain the concept in your own words and present at least one example or application to elucidate that explanation. For example, in explaining the concept of *interference*, you can present a song in which the melody for each verse is almost, but not quite, identical, making it more difficult to memorize or perform upon first encounter. Videos that explain the concept accurately and coherently with a relevant example will receive full assessment credit. Videos submitted by the deadline but not up to standard will be allowed a single reassesment opportunity within three weekdays of feedback being posted. For each concept, the student who produces the video that is deemed the most clear and engaging will be given the opportunity to share it with the class and the public on the course Vimeo channel. Throughout the course, and especially at the end of our core concept study, this channel will provide a high-quality set of concise explanations for student review and public consumption.
 
+Each successful video will earn one assessment point, up to a total of 20 videos.
+
 ### Conceptual mapping
 
 We will collaboratively create a visual diagram that maps out our core concepts and their relationships. This diagram will include each of the core concepts for each unit, with lines drawn between concepts that are related, and a written or verbal explanation of each relationship (between one sentence and one paragraph per relationship). I will build one master concept map over the entirety of the course, based on your submissions. Each Wednesday, you will submit explanations for relationships between concepts from the previous week's study (the exact number will be posted on each week's assignment page). All correct explanations will receive credit, and the best explanation for each relationship will be posted to the collaborative concept map.
+
+You are strongly encouraged to collaborate on answering these questions accurately. Use the D2L forum or the Twitter #muscog hashtag to work together towards a joint solution — in small groups or as a whole class. If the same answer is submitted by more than one person, *only those who provide evidence of their collaborative participation on D2L or Twitter will receive credit*. (Note: this is different from the quizzes.)
+
+Each valid contribution to the conceptual map will earn one assessment point, up to a total of 8 (2 per week).
 
 ### Final project
 
