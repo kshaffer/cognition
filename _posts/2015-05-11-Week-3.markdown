@@ -4,6 +4,5 @@ image: braintree.jpg
 category: Services
 title: Week 3 – June 15–19
 description: |
-  <p class="lead">Test.<br/>
-	  <a href="/week3/">Read more...</a></p>
+  <p class="lead">Test.<br/><a href="/week3/">Read more...</a></p>
 ---

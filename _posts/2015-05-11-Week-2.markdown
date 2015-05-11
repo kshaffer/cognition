@@ -4,6 +4,5 @@ image: braintree.jpg
 category: Services
 title: Week 2 – June 8–12
 description: |
-  <p class="lead">Test.<br/>
-	  <a href="/week2/">Read more...</a></p>
+  <p class="lead">Test.<br/><a href="/week2/">Read more...</a></p>
 ---

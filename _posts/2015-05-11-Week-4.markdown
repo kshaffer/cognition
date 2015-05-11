@@ -4,6 +4,5 @@ image: braintree.jpg
 category: Services
 title: Week 4 – June 22–26
 description: |
-  <p class="lead">Test.<br/>
-	  <a href="/week4/">Read more...</a></p>
+  <p class="lead">Test.<br/><a href="/week4/">Read more...</a></p>
 ---
