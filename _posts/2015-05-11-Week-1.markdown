@@ -4,5 +4,5 @@ image: braintree.jpg
 category: Services
 title: Week 1 – June 1–5
 description: |
-  <p class="lead">Test.<br/><a href="/week1/">Read more...</a></p>
+  <p class="lead">Introductions and introduction to auditory memory: Snyder, <i>Music and Memory</i>, Chapters 1–3.<br/><a href="/week1/">Read more...</a></p>
 ---
