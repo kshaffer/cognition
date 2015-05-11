@@ -15,11 +15,7 @@ A course in music cognition could easily become a class in neurology, psychology
 
 ## Starting out
 
-After examining the information on this page carefully, please go to the assignment guide and watch my introductory video for the course. Then make a 1-minute video of yourself in which you give your name as you'd like us to call you, and either what you find most interesting about this course or what you'd most like to learn in this course, and upload it to the course discussion forum. If you plan on using a Twitter account for this course (see below), sign up (if necessary), and then send a tweet to me with the course hashtag. Something like, "Hey, @krisshaffer, I'm getting set up for the summer #muscog course!" The course hashtag will help others in the course find you, and tagging me will let me know to follow you (so you can send me private messages) and add you to my list. I'll re-tweet your message to make sure others in the course see it (since new Twitter users don't always show up in hashtag search results for a while).
-
-Once you've posted your video and connected with me on Twitter, watch your classmates' videos and try to find/follow them on Twitter by searching for "#muscog".
-
-We will be using both public and private online fora for class discussions. Because things posted online disappear far more slowly than things that are spoken (if they ever disappear), and since typed text lacks the nuances of body language, facial expressions, and tone of voice, it is even more important to take care in promoting an environment of openness and respect. Please review the "classroom behavior" section on my [course policies](/policies/) document, and commit to doing your part to foster an environment where intellectual challenges are welcome, but always put forward with the utmost respect.
+See the [Getting started](/introductions/) page.
 
 ## General course information
 
