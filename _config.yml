@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: localhost:4000 # http://kris.shaffermusic.com/cognition
+url: http://kris.shaffermusic.com/cognition
 title: Music Cognition
 email: kris.shaffer@colorado.edu
 description: "PSYC 4541, CU–Boulder"
