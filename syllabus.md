@@ -47,6 +47,20 @@ All other required class materials will be posted or linked to on the course sit
 
 N.B.: Before purchasing the two textbooks, please consider the choice of print v. electronic carefully. Research suggests that paper copies help most people retain information better than electronic books. On the other hand, ebooks are searchable in ways that print books are not. And, of course, cost is a factor. Finally, some ebook publishers collect data from consumers' ereaders, while others (and paper, of course) do not.
 
+
+## Units of study
+
+Week 1 (June 1–5): Introductions and introduction to auditory memory (*Music and Memory*, Chapters 1–3)
+
+Week 2 (June 8–12): Small-scale memory and musical elements (*Music and Memory*, Chapters 4–5 & 10–11; readings TBA from *Open Music Theory*)
+
+Week 3 (June 15–19): Rhythm and meter, long-term memory, and schemata (*Music and Memory*, Chapters 6–8 & 12; *Sweet Anticipation*, Chapter 11; readings TBA from *Open Music Theory*)
+
+Week 4 (June 22–26): Large-scale musical elements, emotion (*Music and Memory*, Chapter 13; *Sweet Anticipation*, Chapter 1–5 & 9; readings TBA from *Open Music Theory*)
+
+Week 5 (June 29–July 3): Final projects and reassessments
+
+
 ## Coursework
 
 Students will be provided with the following informational resources to engage during each unit:
@@ -55,44 +69,23 @@ Students will be provided with the following informational resources to engage d
 
 *Videos* created by me, which will offer audio/visual explanations of concepts in the reading, demonstrations of how those concepts are applied in specific situations, contradictory perspectives to those expressed in the readings, and alternative explanations.
 
-*Core concept lists* will be provided for each unit, as well as a [master list for the course](/coreConcepts/), which will form the basis for the conceptual videos and maps (and assessment requirements) listed below.
+*Core concept lists* will be provided for each unit, which will form the basis for the conceptual videos and maps (and assessment requirements) listed below.
+
+We will also have a private discussion forum for registered students (D2L), a public discussion forum (Twitter, using the hashtag #muscog), and twice-weekly video-chat office hours. These are the primary places for you to ask questions of clarification, to compare notes with each other as you work on assignments, and for me to ask provocative questions about the readings, videos, and potential points of application.
 
 Assessed coursework will include the following:
 
-*Conceptual videos.* For each core concept in a unit of study, create a video of *no more than 60 seconds* in which you explain the concept in your own words and present at least one example or application to elucidate that explanation. For example, in explaining the concept of *interference*, you can present a song in which the melody for each verse is almost, but not quite, identical, making it more difficult to memorize or perform upon first encounter. Videos that explain the concept accurately and coherently with a relevant example will receive full assessment credit. Videos submitted by the deadline but not up to standard will be allowed a single reassesment opportunity within 48 hours of feedback being posted. For each concept, the student who produces the video that is deemed the most clear and engaging will be given the opportunity to share it with the class and the public on the course Vimeo channel. Throughout the course, and especially at the end of our core concept study, this channel will provide a high-quality set of concise explanations for student review and public consumption.
+### Conceptual videos
 
-*Online discussion.* We will have a private discussion forum for registered students, a public discussion forum (Twitter, using the hashtag #muscog), and twice-weekly video-chat office hours. These are the primary places for you to ask questions of clarification, to compare notes with each other as you work on assignments, and for me to ask provocative questions about the readings, videos, and potential points of application. You are expected to engage in at least one of these fora during each unit of study, but are encouraged to take advantage of all of them when possible.
+For most core concepts in a unit of study (the exact number posted on each week's assignment page), create a video of *no more than 60 seconds* in which you explain the concept in your own words and present at least one example or application to elucidate that explanation. For example, in explaining the concept of *interference*, you can present a song in which the melody for each verse is almost, but not quite, identical, making it more difficult to memorize or perform upon first encounter. Videos that explain the concept accurately and coherently with a relevant example will receive full assessment credit. Videos submitted by the deadline but not up to standard will be allowed a single reassesment opportunity within three weekdays of feedback being posted. For each concept, the student who produces the video that is deemed the most clear and engaging will be given the opportunity to share it with the class and the public on the course Vimeo channel. Throughout the course, and especially at the end of our core concept study, this channel will provide a high-quality set of concise explanations for student review and public consumption.
 
-*Conceptual mapping.* You will create a visual diagram that maps out our core concepts and their relationships. These diagrams should include each of the core concepts for each unit, with lines drawn between concepts that are related, and a written or verbal explanation of each relationship (between one sentence and one paragraph per relationship). You will build one master concept map over the entirety of the course, but will submit drafts at the end of each week of the course, including all concepts covered up to that date. Conceptual maps can be drawn on paper with pencil (and submitted as a photo, high enough resolution to be legible), an electronic diagram (using Adobe Illustrator, Prezi, etc.), or a physical diagram created on a wall/floor etc. (submitted as a photo or video and accompanied by a written or audio/video explanation of the connections).
+### Conceptual mapping
 
-*Final project.* If you wish to obtain an A in the class, you will construct a final project that applies course concepts in a domain not discussed in class, or critiques some presentation of material in class. You and I will negotiate the details of these projects one-on-one, with the goals of 1) finding a project in line with your interests, 2) adding to public human knowledge/understanding, and 3) moving beyond the memorization, understanding, and synthesis of course concepts into the realm of application and critique. Shortly after midterm, you will have an opportunity to propose project ideas, and our negotiations will be completed before the final 1/4 of the term, with a clear contract of expectations laid out. You may only pursue the A-level final project once you have completed the assessment requirements for a B (see below).
+We will collaboratively create a visual diagram that maps out our core concepts and their relationships. This diagram will include each of the core concepts for each unit, with lines drawn between concepts that are related, and a written or verbal explanation of each relationship (between one sentence and one paragraph per relationship). I will build one master concept map over the entirety of the course, based on your submissions. Each Wednesday, you will submit explanations for relationships between concepts from the previous week's study (the exact number will be posted on each week's assignment page). All correct explanations will receive credit, and the best explanation for each relationship will be posted to the collaborative concept map.
 
-## Units of study (dates TBA)
+### Final project
 
-I. Introductions
-
-II. Auditory memory (*Music and Memory*, Chapter 1)
-
-III. Echoic memory and grouping (*Music and Memory*, Chapters 2–3)
-
-IV. Musical events (*Music and Memory*, Chapter 10; readings TBA from *Open Music Theory*)
-
-V. Short-term memory and working memory (*Music and Memory*, Chapters 4–5)
-
-VI. Melody and Motive (*Music and Memory*, Chapter 11; readings TBA from *Open Music Theory*)
-
-VII. Rhythm and meter (*Music and Memory*, Chapter 12; readings TBA from *Open Music Theory*)
-
-VIII. Long-term memory (*Music and Memory*, Chapters 6–7)
-
-IX. Schemata (*Music and Memory*, Chapter 8; *Sweet Anticipation*, Chapter 11)
-
-X. Tonality (*Sweet Anticipation*, Chapter 9; readings TBA from *Open Music Theory*)
-
-XI. Musical form (*Music and Memory*, Chapter 13; readings TBA from *Open Music Theory*)
-
-XII. Music and emotion (*Sweet Anticipation*, Chapters 1–5)
-
+If you wish to obtain an A in the class, you will construct a final project that applies course concepts in a domain not discussed in class, or critiques some presentation of material in class. You and I will negotiate the details of these projects one-on-one, with the goals of 1) finding a project in line with your interests, 2) adding to public human knowledge/understanding, and 3) moving beyond the memorization, understanding, and synthesis of course concepts into the realm of application and critique. Shortly after midterm, you will have an opportunity to propose project ideas, and our negotiations will be completed before the beginning of Week 5, with a clear contract of expectations laid out. You may only pursue the final project if you have met the appropriate threshold (see below).
 
 
 ## Assessment
@@ -101,17 +94,18 @@ The most important and interesting aspects of learning are things that are diffi
 
 My goal in grading is three-fold: to diminish their significance and the negative impact they can have on the learning environment, to direct your studies clearly (but flexibly), and to make sure that they do carry some meaningful representation of the knowledge and skills you possess and gain by the end of the course.
 
-I expect no Ds and Fs, but those grades will be reserved for students who fail to internalize the "nuts and bolts" of cognitive musicology. Cs will be given to students who sufficiently internalize most of those basic concepts, but no more. As and Bs are reserved for students who master those concepts and demonstrate an ability to synthesize and apply them in complex, even novel, ways.
+With that in mind, assessment will be oriented around specific concepts and skills, all of which will be assessed pass/fail — no partial credit. In order to facilitate learing, the bulk of the assessments will either allow collaboration or reassessment, if not passed on the first attempt.
 
-Specifically, students who successfully meet the following standards will receive the corresponding grades:
+Following are assessment types and points towards the final grade:
 
-- F: Failure to meet the minimum requirements for a D (below).  
-- D: Successfully complete at least 50% of the concept video assessments and participate in an online discussion forum for at least 50% of the units of study.  
-- C: Successfully complete at least 75% of the concept video assessments and participate in an online discussion forum for at least 75% of the units of study.  
-- B: Successfully complete 100% of the concept video assessments, participate in an online discussion forum for at least 90% of the units of study, and create a "concept map" for the course.  
-- A: Successfully complete all B-level requirements and perform a final synthesis/application project, the details of which will be negotiated with the instructor between midterm and 3/4 of the way through the course.
+- **Introductory activities** (video, tweet, and D2L comments): 1-point each, total of 3 points.  
+- **Quizzes:** 2 points each, 7 quizzes, total of 14 points. Half or more questions correct will earn 1 point. 90% or more questions correct will earn 2 points. *Collaboration encouraged (see specific quiz instructions).* No reassessments allowed.  
+- **Conceptual videos:** 1 point each, 20 videos required. *Collaboration not allowed.* Reassessments encouraged within three class days of receiving feedback.  
+- **Concept map contributions:** 1 point each, 8 contributions required (2 per week). *Collaboration encouraged (see instructions).* No reassessments allowed.  
+- **Final project:** 5 points (rubric negotiated between student and instructor). Students must have earned 35 points by the beginning of Week 5 (Monday, June 29) in order to pursue a final project. *Collaboration permitted if approved by the instructor in the contract for the project.* Since they are due on the last day of class, there is no reassessment opportunity, but the contract should make the grade clear to students when they submit.  
+- **Final reassessments:** Students who do not qualify for the final project may submit up to 5 points worth of new or reattempted videos and/or concept map contributions during the final week. *No collaboration allowed, no further reassessments allowed.*
 
-N.B.: Since there are three fora for online discussion, significant participation in any one of them during a unit of study will suffice for the participation requirement.
+These assignments total a possible 50 points. Final letter grades will be determined by the percentage of points passed according to the usual 90/80/70/60 scale.
 
 
 ## Reaching the instructor
