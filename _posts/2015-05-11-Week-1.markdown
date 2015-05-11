@@ -1,0 +1,8 @@
+---
+layout: default
+image: braintree.jpg
+category: Services
+title: Week 1 – June 1–5
+description: |
+  <p class="lead">Test.</p>
+---

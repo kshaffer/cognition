@@ -1,0 +1,26 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: localhost:4000 # http://kris.shaffermusic.com/cognition
+title: Music Cognition
+email: kris.shaffer@colorado.edu
+description: "PSYC 4541, CU–Boulder"
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: twitter
+    url: https://twitter.com/krisshaffer
+  - title: github
+    url: https://github.com/kshaffer/cognition
