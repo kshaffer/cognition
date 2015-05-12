@@ -54,7 +54,7 @@ Introduction (June 1): [Getting started](/introductions/)
 
 Week 1 (June 2–5): [Introduction to auditory memory](/week1/)
 
-Week 2 (June 8–12): [Chords, phrases, rhythm](/week2/)
+Week 2 (June 8–12): [Music on the small scale – chords, phrases, rhythm](/week2/)
 
 Week 3 (June 15–19): [Schemas, categories, styles](/week3/)
 
