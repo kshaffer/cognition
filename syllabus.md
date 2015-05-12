@@ -50,15 +50,17 @@ N.B.: Before purchasing the two textbooks, please consider the choice of print v
 
 ## Units of study
 
-Week 1 (June 1–5): Introduction to auditory memory
+Introduction (June 1): [Getting started](/introductions/)
 
-Week 2 (June 8–12): Chords, phrases, rhythm
+Week 1 (June 2–5): [Introduction to auditory memory](/week1/)
 
-Week 3 (June 15–19): Schemas, categories, styles
+Week 2 (June 8–12): [Chords, phrases, rhythm](/week2/)
 
-Week 4 (June 22–26): Form, expectation, emotion
+Week 3 (June 15–19): [Schemas, categories, styles](/week3/)
 
-Week 5 (June 29–July 3): Final projects and reassessments
+Week 4 (June 22–26): [Form, expectation, emotion](/week4/)
+
+Week 5 (June 29–July 3): [Final projects and reassessments](/week5/)
 
 
 ## Coursework
