@@ -4,5 +4,6 @@ image: memorySmall.jpg
 category: Services
 title: Week 1 – June 1–5
 description: |
-  <p class="lead">Introductions and introduction to auditory memory: Snyder, <i>Music and Memory</i>, Chapters 1–3.<br/><a href="/week1/">Read more...</a></p>
+  <p class="lead">Introduction to auditory memory.<br/>What is a musical note? a chord? rhythm? Do musicians define these differently than cognitive scientists? What exactly do we *hear* when we listen to music?<br/>We will engage these and other related questions during this unit, as we begin to explore the workings of the human auditory system and basic musical concepts.
+<br/><br/>Reading assignments 1 & 2, Quizzes 1 & 2.<br/><br/><a href="/week1/">Read more...</a></p>
 ---
