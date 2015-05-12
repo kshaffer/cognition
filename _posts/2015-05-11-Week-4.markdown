@@ -1,6 +1,6 @@
 ---
 layout: default
-image: braintree.jpg
+image: spiralSmall.jpg
 category: Services
 title: Week 4 – June 22–26
 description: |
