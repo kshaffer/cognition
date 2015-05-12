@@ -2,7 +2,7 @@
 layout: page
 title: Week 2 – Music on the small scale
 subTitle: "Music Cognition (PSYC 4541), CU–Boulder, Summer 2015"
-image: schemas.jpg
+image: string.jpg
 ---
 
 ## Schedule
