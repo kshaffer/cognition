@@ -1,6 +1,6 @@
 ---
 layout: default
-image: water.jpg
+image: waterSmall.jpg
 category: Services
 title: Week 5 – June 29–July 3
 description: |
