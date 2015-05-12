@@ -7,7 +7,7 @@ image: path.jpg
 
 *video introduction – to be added*
 
-Welcome! As your gearing up for the course, please be sure to examine the [syllabus](/syllabus/) and [course policies](/policies/) carefully. Once you've done so and watched the above video, please do the following **by 3 p.m. (MDT) on Monday, June 1:**
+Welcome! As you're gearing up for the course, please be sure to examine the [syllabus](/syllabus/) and [course policies](/policies/) carefully. Once you've done so and watched the above video, please do the following **by 3 p.m. (MDT) on Monday, June 1:**
 
 1. **Make your own personal introduction video.** This is a 1-minute video of yourself in which you give us your name as you'd like us to call you, and either what you find most interesting about this course or what you'd most like to learn in this course, and upload it to the course discussion forum. 
 

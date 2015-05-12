@@ -50,13 +50,13 @@ N.B.: Before purchasing the two textbooks, please consider the choice of print v
 
 ## Units of study
 
-Week 1 (June 1–5): Introductions and introduction to auditory memory (*Music and Memory*, Chapters 1–3)
+Week 1 (June 1–5): Introduction to auditory memory
 
-Week 2 (June 8–12): Small-scale memory and musical elements (*Music and Memory*, Chapters 4–5 & 10–11; readings TBA from *Open Music Theory*)
+Week 2 (June 8–12): Chords, phrases, rhythm
 
-Week 3 (June 15–19): Rhythm and meter, long-term memory, and schemata (*Music and Memory*, Chapters 6–8 & 12; *Sweet Anticipation*, Chapter 11; readings TBA from *Open Music Theory*)
+Week 3 (June 15–19): Schemas, categories, styles
 
-Week 4 (June 22–26): Large-scale musical elements, emotion (*Music and Memory*, Chapter 13; *Sweet Anticipation*, Chapter 1–5 & 9; readings TBA from *Open Music Theory*)
+Week 4 (June 22–26): Form, expectation, emotion
 
 Week 5 (June 29–July 3): Final projects and reassessments
 
@@ -75,32 +75,15 @@ We will also have a private discussion forum for registered students (D2L), a pu
 
 Assessed coursework will include the following:
 
-### Reading/video quizzes
+- Introductory materials  
+- Reading/video quizzes  
+- Conceptual videos  
+- Conceptual mapping  
+- Final project  
 
-There will be two reading/video assignments each week, with reading quizzes due to be completed by 3pm on Monday and Wednesday of each week. Each quiz will contain approximately 10 questions, two-thirds of which involve the raw regurgitation of information, one-third of which require higher-level thinking to arrive at an answer not made explicitly in the reading/video. You are strongly encouraged to collaborate on answering these questions accurately. Use the D2L forum, the Twitter #muscog hashtag, or other interpersonal communication to work together towards a joint solution — in small groups or as a whole class. 
+For details and examples, please see the [Assignment guide](/assessments/).
 
-50% or greater accuracy on the quiz will earn one assessment point, 90% or greater accuracy will earn the full two points. This means that you only have room for one incorrect answer to receive full credit, so make sure that your are confident in its accuracy, no matter which of your colleagues contributed to the group answer.
-
-### Conceptual videos
-
-For most core concepts in a unit of study (the exact number posted on each week's assignment page), create a video of *no more than 60 seconds* in which you explain the concept in your own words and present at least one example or application to elucidate that explanation. For example, in explaining the concept of *interference*, you can present a song in which the melody for each verse is almost, but not quite, identical, making it more difficult to memorize or perform upon first encounter. Videos that explain the concept accurately and coherently with a relevant example will receive full assessment credit. Videos submitted by the deadline but not up to standard will be allowed a single reassesment opportunity within three weekdays of feedback being posted. For each concept, the student who produces the video that is deemed the most clear and engaging will be given the opportunity to share it with the class and the public on the course Vimeo channel. Throughout the course, and especially at the end of our core concept study, this channel will provide a high-quality set of concise explanations for student review and public consumption.
-
-Each successful video will earn one assessment point, up to a total of 20 videos.
-
-### Conceptual mapping
-
-We will collaboratively create a visual diagram that maps out our core concepts and their relationships. This diagram will include each of the core concepts for each unit, with lines drawn between concepts that are related, and a written or verbal explanation of each relationship (between one sentence and one paragraph per relationship). I will build one master concept map over the entirety of the course, based on your submissions. Each Wednesday, you will submit explanations for relationships between concepts from the previous week's study (the exact number will be posted on each week's assignment page). All correct explanations will receive credit, and the best explanation for each relationship will be posted to the collaborative concept map.
-
-You are strongly encouraged to collaborate on answering these questions accurately. Use the D2L forum or the Twitter #muscog hashtag to work together towards a joint solution — in small groups or as a whole class. If the same answer is submitted by more than one person, *only those who provide evidence of their collaborative participation on D2L or Twitter will receive credit*. (Note: this is different from the quizzes.)
-
-Each valid contribution to the conceptual map will earn one assessment point, up to a total of 8 (2 per week).
-
-### Final project
-
-If you wish to obtain an A in the class, you will construct a final project that applies course concepts in a domain not discussed in class, or critiques some presentation of material in class. You and I will negotiate the details of these projects one-on-one, with the goals of 1) finding a project in line with your interests, 2) adding to public human knowledge/understanding, and 3) moving beyond the memorization, understanding, and synthesis of course concepts into the realm of application and critique. Shortly after midterm, you will have an opportunity to propose project ideas, and our negotiations will be completed before the beginning of Week 5, with a clear contract of expectations laid out. You may only pursue the final project if you have met the appropriate threshold (see below).
-
-
-## Assessment
+## Assessment & grades
 
 The most important and interesting aspects of learning are things that are difficult to assess fairly and reductively (i.e., with a single letter). As a result, heavy emphasis on grades tends to [undermine alternative perspectives](http://www.hybridpedagogy.com/journal/syllabus-manifesto-critical-approach-classroom-culture/)—the exact opposite of what a liberal education should do.
 
@@ -111,8 +94,8 @@ With that in mind, assessment will be oriented around specific concepts and skil
 Following are assessment types and points towards the final grade:
 
 - **Introductory activities** (video, tweet, and D2L comments): 1-point each, total of 3 points.  
-- **Quizzes:** 2 points each, 7 quizzes, total of 14 points. Half or more questions correct will earn 1 point. 90% or more questions correct will earn 2 points. *Collaboration encouraged (see specific quiz instructions).* No reassessments allowed.  
-- **Conceptual videos:** 1 point each, 20 videos required. *Collaboration not allowed.* Reassessments encouraged within three class days of receiving feedback.  
+- **Quizzes:** 2 points each, 8 quizzes, total of 16 points. Half or more questions correct will earn 1 point. 90% or more questions correct will earn 2 points. *Collaboration encouraged (see specific quiz instructions).* No reassessments allowed.  
+- **Conceptual videos:** 1 point each, 18 videos required. *Collaboration not allowed.* Reassessments encouraged within three class days of receiving feedback.  
 - **Concept map contributions:** 1 point each, 8 contributions required (2 per week). *Collaboration encouraged (see instructions).* No reassessments allowed.  
 - **Final project:** 5 points (rubric negotiated between student and instructor). Students must have earned 35 points by the beginning of Week 5 (Monday, June 29) in order to pursue a final project. *Collaboration permitted if approved by the instructor in the contract for the project.* Since they are due on the last day of class, there is no reassessment opportunity, but the contract should make the grade clear to students when they submit.  
 - **Final reassessments:** Students who do not qualify for the final project may submit up to 5 points worth of new or reattempted videos and/or concept map contributions during the final week. *No collaboration allowed, no further reassessments allowed.*
@@ -122,7 +105,7 @@ These assignments total a possible 50 points. Final letter grades will be determ
 
 ## Reaching the instructor
 
-The best ways to reach me during the course are email and Twitter. Please allow up to 24 hours for a response, though during summer courses, I tend to respond much more quickly than that. Messages sent on Saturday or Sunday will likely not receive a reply until Monday.
+The best ways to reach me during the course are [email](mailto:kris.shaffer@colorado.edu) and [Twitter](http://twitter.com/krisshaffer). Please allow up to 24 hours for a response, though during summer courses, I tend to respond much more quickly than that during morning and afternoon. Messages sent on Saturday or Sunday will likely not receive a reply until Monday.
 
 
 ## Technical support
