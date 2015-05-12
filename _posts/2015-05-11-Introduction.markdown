@@ -1,6 +1,6 @@
 ---
 layout: default
-image: braintree.jpg
+image: drainSmall.jpg
 category: Services
 title: Getting started
 description: |
