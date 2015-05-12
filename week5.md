@@ -2,7 +2,7 @@
 layout: page
 title: Week 5 – Final projects and reassessments
 subTitle: "Music Cognition (PSYC 4541), CU–Boulder, Summer 2015"
-image: path.jpg
+image: water.jpg
 ---
 
 ## Schedule
