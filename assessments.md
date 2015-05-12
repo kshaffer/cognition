@@ -2,7 +2,7 @@
 layout: page
 title: Assignment guide
 subTitle: "Music Cognition (PSYC 4541), CU–Boulder, Summer 2015"
-image: path.jpg
+image: homework.jpg
 ---
 
 Following are written and/or video descriptions of the activities that will be assessed during this course. Where applicable, examples are also provided.
