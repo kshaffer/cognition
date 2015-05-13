@@ -19,7 +19,7 @@ What is a musical note? a chord? rhythm? Do musicians define these differently t
 
 We will engage these and other related questions during this unit, as we begin to explore the workings of the human auditory system and basic musical concepts.
 
-*video to be added*
+*introductory video to be added*
 
 ## Core concepts
 

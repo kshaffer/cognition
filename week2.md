@@ -18,7 +18,7 @@ image: string.jpg
 
 Is music really a "universal language"? This is a common claim from both musicians and music lovers — but is it true? In this unit, we will begin to unpack which aspects of human musical practice are innate/evolved and which are learned. We will also explore small-scale cognitive functions like short-term and working memory, and their implications for human music.
 
-*video to be added*
+*introductory video to be added*
 
 ## Core concepts
 

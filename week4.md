@@ -13,5 +13,9 @@ image: spiral.jpg
 
 
 
+## Core concepts
+
+
+
 ## Assignments
 

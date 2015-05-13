@@ -13,5 +13,9 @@ image: schemas.jpg
 
 
 
+## Core concepts
+
+
+
 ## Assignments
 

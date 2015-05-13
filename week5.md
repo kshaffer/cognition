@@ -13,5 +13,9 @@ image: water.jpg
 
 
 
+## Core concepts
+
+
+
 ## Assignments
 
