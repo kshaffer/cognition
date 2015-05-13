@@ -18,14 +18,14 @@
     <link href="/font-awesome-4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href="http://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
 
-	{% if site.owner.twitter %}<!-- Twitter Cards -->
+	<!-- Twitter Cards -->
 	{% if page.image %}<meta name="twitter:card" content="summary_large_image">
 	<meta name="twitter:image" content="{{ site.url }}/img/{{ page.image }}">
 	{% else %}<meta name="twitter:card" content="summary">
 	<meta name="twitter:image" content="{% if page.image.thumb %}{{ site.url }}/img/{{ page.image.thumb }}{% else %}{{ site.url }}/img/{{ site.logo }}{% endif %}">{% endif %}
 	<meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
 	<meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-	<meta name="twitter:creator" content="@{{ site.owner.twitter }}">{% endif %}
+	<meta name="twitter:creator" content="@{{ site.owner.twitter }}">
 
 	<!-- Open Graph -->
 	<meta property="og:locale" content="en_US" />
