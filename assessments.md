@@ -33,6 +33,10 @@ I will create videos for core concepts of Week 1, which you can use both as stud
 
 Each successful video will earn one assessment point, up to a total of 18 videos.
 
+## Video voting
+
+At the beginning of Weeks 3, 4, and 5, I will post 2 or more passing videos for each core concept (with the permission of the students who created them) in the D2L forum. For at least two of the concepts, leave a substantive, positive comment under the video that you like best for each concept. For example, "[So-and-so]'s comparison of the live and studio recordings of the same song helped me understand the potential emotional impact of an unexpected rhythmic delay." For each concept, the video with the most positive comments will be posted to the class's Vimeo channel. Each student who provides substantive, positive comments for videos in at least two conceptual categories by the deadline (Tuesdays at 8am MDT) will receive one assessment point.
+
 ## Conceptual mapping
 
 We will collaboratively create a visual diagram that maps out our core concepts and their relationships. This diagram will include each of the core concepts for each unit, with lines drawn between concepts that are related, and a written or verbal explanation of each relationship (between one sentence and one paragraph per relationship). I will build one master concept map over the entirety of the course, based on your submissions. Each Wednesday, you will submit explanations for relationships between concepts from the previous week's study (the exact number will be posted on each week's assignment page). All correct explanations will receive credit, and the best explanation for each relationship will be posted to the collaborative concept map.
@@ -59,11 +63,12 @@ Following are assessment types and points towards the final grade:
 - **Introductory activities** (video, tweet, and D2L comments): 1-point each, total of 3 points.  
 - **Quizzes:** 2 points each, 8 quizzes, total of 16 points. Half or more questions correct will earn 1 point. 90% or more questions correct will earn 2 points. *Collaboration encouraged (see specific quiz instructions).* No reassessments allowed.  
 - **Conceptual videos:** 1 point each, 18 videos required. *Collaboration not allowed.* Reassessments encouraged within three class days of receiving feedback.  
+- **Video voting:** 1 point each, 3 weeks. No reassessments. Only comments received by the deadline will count.  
 - **Concept map contributions:** 1 point each, 8 contributions required (2 per week). *Collaboration encouraged (see instructions).* No reassessments allowed.  
 - **Final project:** 5 points (rubric negotiated between student and instructor). Students must have earned 35 points by the beginning of Week 5 (Monday, June 29) in order to pursue a final project. *Collaboration permitted if approved by the instructor in the contract for the project.* Since they are due on the last day of class, there is no reassessment opportunity, but the contract should make the grade clear to students when they submit.  
 - **Final reassessments:** Students who do not qualify for the final project may submit up to 5 points worth of new or reattempted videos and/or concept map contributions during the final week. *No collaboration allowed, no further reassessments allowed.*
 
-These assignments total a possible 50 points. Final letter grades will be determined by the percentage of points passed according to the usual 90/80/70/60 scale.
+These assignments total a possible 53 points. Final letter grades will be determined by the percentage of points passed according to the usual 90/80/70/60 scale.
 
 
 ## Technical support (from the syllabus)

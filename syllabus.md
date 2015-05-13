@@ -40,8 +40,7 @@ Because music cognition is a heavily interdisciplinary field, I do not expect al
 - David Huron, [*Sweet Anticipation: Music and the Psychology of Expectation*](https://openlibrary.org/works/OL5851060W/Sweet_Anticipation).  
 - [*Open Music Theory*](http://www.openmusictheory.com) (free web access).  
 - A web-enabled device that is capable of reading online text, accessing the course website, recording video, and participating in group video chats.    
-- A free Google account *using your CU Identikey* (see [OIT's Google Apps page](http://www.colorado.edu/oit/services/messaging-collaboration/google-apps) for detailed information and support).  
-- A free, public Twitter account (optional; pseudonyms allowed; please read [privacy policy](https://twitter.com/privacy?lang=en) before deciding to sign up).
+- A free, public Twitter account (pseudonyms allowed; please read [privacy policy](https://twitter.com/privacy?lang=en) before signing up).
 
 All other required class materials will be posted or linked to on the course site.
 
@@ -98,11 +97,12 @@ Following are assessment types and points towards the final grade:
 - **Introductory activities** (video, tweet, and D2L comments): 1-point each, total of 3 points.  
 - **Quizzes:** 2 points each, 8 quizzes, total of 16 points. Half or more questions correct will earn 1 point. 90% or more questions correct will earn 2 points. *Collaboration encouraged (see specific quiz instructions).* No reassessments allowed.  
 - **Conceptual videos:** 1 point each, 18 videos required. *Collaboration not allowed.* Reassessments encouraged within three class days of receiving feedback.  
+- **Video voting:** 1 point each, 3 weeks. No reassessments. Only comments received by the deadline will count.  
 - **Concept map contributions:** 1 point each, 8 contributions required (2 per week). *Collaboration encouraged (see instructions).* No reassessments allowed.  
 - **Final project:** 5 points (rubric negotiated between student and instructor). Students must have earned 35 points by the beginning of Week 5 (Monday, June 29) in order to pursue a final project. *Collaboration permitted if approved by the instructor in the contract for the project.* Since they are due on the last day of class, there is no reassessment opportunity, but the contract should make the grade clear to students when they submit.  
 - **Final reassessments:** Students who do not qualify for the final project may submit up to 5 points worth of new or reattempted videos and/or concept map contributions during the final week. *No collaboration allowed, no further reassessments allowed.*
 
-These assignments total a possible 50 points. Final letter grades will be determined by the percentage of points passed according to the usual 90/80/70/60 scale.
+These assignments total a possible 53 points. Final letter grades will be determined by the percentage of points passed according to the usual 90/80/70/60 scale.
 
 
 ## Reaching the instructor
