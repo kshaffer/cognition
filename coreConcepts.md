@@ -7,6 +7,8 @@ image: connect.jpg
 
 The following concepts will form the foundation of our studies, and will be the subject of most assessments. 
 
+*This is an early list, and is not currently up-to-date.*
+
 ## Memory
 
 - echoic memory  
