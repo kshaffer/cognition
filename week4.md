@@ -56,4 +56,4 @@ For **Wednesday, June 24, 3pm MDT,** please read/watch the following and then ta
 - *Open Music Theory*, "Introduction to musical form" (link forthcoming)  
 - Video: ["Introduction to musical form"]() (link forthcoming)  
 
-For **Friday, June 26, 8am MDT,** submit six core concept videos on concepts *from the Week 3 or Week 4 lists.* See the [Assignment guide](/assessments/) for details.
+For **Friday, June 26, 8am MDT,** submit five core concept videos on concepts *from the Week 3 or Week 4 lists.* See the [Assignment guide](/assessments/) for details.

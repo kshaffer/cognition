@@ -48,4 +48,4 @@ For **Wednesday, June 10, 3pm MDT,** please read/watch the following and then ta
 - *Music and Memory*, Chapter 5, "Closure"  
 - *Music and Memory*, Chapter 11, "Melody"  
 
-For **Friday, June 12, 8am MDT,** submit six core concept videos. See the [Assignment guide](/assessments/) for details.
+For **Friday, June 12, 8am MDT,** submit five core concept videos. See the [Assignment guide](/assessments/) for details.

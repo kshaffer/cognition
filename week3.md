@@ -61,4 +61,4 @@ For **Wednesday, June 17, 3pm MDT,** please read/watch the following and then ta
 - Video: ["Musical styles"]() (link forthcoming)  
 - Robert O. Gjerdingen & David Perrott, ["Scanning the dial: The rapid recognition of music genres"](http://faculty-web.at.northwestern.edu/music/gjerdingen/Papers/PubPapers/Scanning.pdf)  
 
-For **Friday, June 19, 8am MDT,** submit six core concept videos on concepts *from the Week 3 list only (see above).* See the [Assignment guide](/assessments/) for details.
+For **Friday, June 19, 8am MDT,** submit five core concept videos on concepts *from the Week 3 list only (see above).* See the [Assignment guide](/assessments/) for details.

@@ -97,13 +97,13 @@ Following are assessment types and points towards the final grade:
 
 - **Introductory activities** (video, tweet, and D2L comments): 1-point each, total of 3 points.  
 - **Quizzes:** 2 points each, 8 quizzes, total of 16 points. Half or more questions correct will earn 1 point. 90% or more questions correct will earn 2 points. *Collaboration encouraged (see specific quiz instructions).* No reassessments allowed.  
-- **Conceptual videos:** 1 point each, 18 videos required (6 per week during weeks 2–4). *Collaboration not allowed.* Reassessments encouraged within three class days of receiving feedback.  
+- **Conceptual videos:** 1 point each, 15 videos required (5 per week during weeks 2–4). *Collaboration not allowed.* Reassessments encouraged within three class days of receiving feedback.  
 - **Video voting:** 1 point each, 3 weeks. No reassessments. Only comments received by the deadline will count.  
 - **Concept map contributions:** 1 point each, 8 contributions required (2 per week). *Collaboration encouraged (see instructions).* No reassessments allowed.  
 - **Final project:** 5 points (rubric negotiated between student and instructor). Students must have earned 35 points by the beginning of Week 5 (Monday, June 29) in order to pursue a final project. *Collaboration permitted if approved by the instructor in the contract for the project.* Since they are due on the last day of class, there is no reassessment opportunity, but the contract should make the grade clear to students when they submit.  
 - **Final reassessments:** Students who do not qualify for the final project may submit up to 5 points worth of new or reattempted videos and/or concept map contributions during the final week. *No collaboration allowed, no further reassessments allowed.*
 
-These assignments total a possible 53 points. Final letter grades will be determined by the percentage of points passed according to the usual 90/80/70/60 scale.
+These assignments total a possible 50 points. Final letter grades will be determined by the percentage of points passed according to the usual 90/80/70/60 scale.
 
 
 ## Reaching the instructor
