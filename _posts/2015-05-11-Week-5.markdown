@@ -4,5 +4,5 @@ image: waterSmall.jpg
 category: Services
 title: Week 5 – June 29–July 3
 description: |
-  <p class="lead">Coming soon.<br/><a href="/week5/">Read more...</a></p>
+  <p class="lead"><b>Reassessments and final projects</b><br/><br/><br/><br/><a href="/week5/">Read more...</a></p>
 ---
