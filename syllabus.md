@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Syllabus
-subTitle: "Music Cognition (PSYC 4541), CU–Boulder, Summer 2015"
+subTitle: "Music Cognition (PSYC 4541), CU–Boulder, Summer 2015<br/>Kris Shaffer, Ph.D. – instructor"
 image: path.jpg
 ---
 
