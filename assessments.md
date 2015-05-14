@@ -7,6 +7,8 @@ image: homework.jpg
 
 Following are written and/or video descriptions of the activities that will be assessed during this course. Where applicable, examples are also provided.
 
+*Some of my assessment practices may be unfamiliar to you. For more information on why I grade the way that I do, please see my blog post, ["Why Grade?"](http://kris.shaffermusic.com/2014/07/why-grade/). I am glad to answer any questions you have (the earlier the better) and to entertain proposals for changes or exceptions (again, the earlier the better).*
+
 ## Introductory materials
 
 On the first day of class (Monday, June 1), there will be three introductory activities to help you get oriented to the course and the technological environment. These are each worth one assessment point.

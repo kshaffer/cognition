@@ -79,6 +79,7 @@ Assessed coursework will include the following:
 - Introductory materials  
 - Reading/video quizzes  
 - Conceptual videos  
+- Video voting  
 - Conceptual mapping  
 - Final project  
 
@@ -120,4 +121,4 @@ For instructor and university policies relevant to this course, please see [this
 
 ## About this syllabus
 
-This syllabus is a *summary of course objectives and content* and a reminder of *some* relevant university policies, not a contract. *All information in this syllabus (except for the "General course description") is subject to change, with sufficient advanced notice provided by the instructor.* I will also consider proposals for changes from students enrolled in the course.*
+This syllabus is a *summary of course objectives and content* and a reminder of *some* relevant university policies, not a contract. *All information in this syllabus (except for the "General course description") is subject to change, with sufficient advanced notice provided by the instructor.* I will also consider proposals for changes from students enrolled in the course.
