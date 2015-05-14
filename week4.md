@@ -8,7 +8,7 @@ image: spiral.jpg
 ## Schedule
 
 **Monday, June 22 (due 3pm MDT):** reading and quiz 7  
-**Tuesday, June 23 (due 8am MDT):** video votes due
+**Tuesday, June 23 (due 8am MDT):** video votes due  
 **Tuesday, June 23, time TBA:** video office hours  
 **Wednesday, June 24 (due 8am MDT):** concept map contributions due  
 **Wednesday, June 24 (due 3pm MDT):** reading and quiz 8  

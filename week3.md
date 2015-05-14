@@ -8,7 +8,7 @@ image: schemas.jpg
 ## Schedule
 
 **Monday, June 15 (due 3pm MDT):** reading and quiz 5  
-**Tuesday, June 15 (due 8am MDT):** video votes due
+**Tuesday, June 15 (due 8am MDT):** video votes due  
 **Tuesday, June 16, time TBA:** video office hours  
 **Wednesday, June 17 (due 8am MDT):** concept map contributions due  
 **Wednesday, June 17 (due 3pm MDT):** reading and quiz 6  

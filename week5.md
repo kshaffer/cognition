@@ -7,7 +7,7 @@ image: water.jpg
 
 ## Schedule
 
-**Tuesday, June 30 (due 8am MDT):** video votes due
+**Tuesday, June 30 (due 8am MDT):** video votes due  
 **Wednesday, July 1 (due 8am MDT):** concept map contributions due  
 **Friday, June 26 (due 8am MDT):** final projects and reassessments due
 
