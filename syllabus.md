@@ -115,6 +115,8 @@ The best ways to reach me during the course are [email](mailto:kris.shaffer@colo
 
 Students can obtain technical support for the technologies used in class by consulting Lynda.com (accessible via [MyCUInfo](https://fedauth.colorado.edu/idp/Authn/UserPassword)), the [CU OIT student help desk](http://www.colorado.edu/oit/support-training/it-service-center), and/or the instructor.
 
+See also CU's [Introduction to D2L Platform](http://www.colorado.edu/oit/services/teaching-learning-tools/desire2learn-d2l/help/getting-started/introduction-d2l) resource.
+
 ## Policies
 
 For instructor and university policies relevant to this course, please see [this page]({{ root_url }}/policies.html).
