@@ -21,7 +21,7 @@ For **Wednesday, June 24, 8am MDT,** submit two written explanations of the rela
 
 ## Final projects and reassessments
 
-*From the syllabus:*
+*From the syllabus & assessment guide:*
 
 If you wish to obtain an A in the class, you will construct a final project that applies course concepts in a domain not discussed in class, or critiques some presentation of material in class. You and I will negotiate the details of these projects one-on-one, with the goals of 1) finding a project in line with your interests, 2) adding to public human knowledge/understanding, and 3) moving beyond the memorization, understanding, and synthesis of course concepts into the realm of application and critique. Shortly after midterm, you will have an opportunity to propose project ideas, and our negotiations will be completed before the beginning of Week 5, with a clear contract of expectations laid out. You may only pursue the final project if you have met the appropriate threshold (see below).
 
