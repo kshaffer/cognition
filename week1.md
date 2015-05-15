@@ -39,7 +39,8 @@ For **Monday, June 1, 3pm MDT,** complete the introductory activities. See [Gett
 For **Wednesday, June 3, 3pm MDT,** please read/watch the following and then take Quiz 1 on D2L:
 
 - *Music and Memory*, Chapter 1, "Auditory Memory: an Overview"  
-- Video: ["Meter"]() (link forthcoming)  
+- Video: ["Meter, part 1: counting pulse"](https://vimeo.com/127952221)  
+- Video: ["Meter, part 2: grouping & division"](https://vimeo.com/127955738)  
 - *Open Music Theory*, ["Meter"](http://openmusictheory.com/meter.html)  
 - Video: ["Major keys & scales"](https://vimeo.com/94802632)  
 - Video: ["Minor scales & keys"](https://vimeo.com/94803688)  
