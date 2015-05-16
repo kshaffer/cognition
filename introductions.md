@@ -5,7 +5,7 @@ subTitle: "Music Cognition (PSYC 4541), CU–Boulder, Summer 2015"
 image: drain.jpg
 ---
 
-*video introduction – to be added*
+<div class="center-video"><iframe src="https://player.vimeo.com/video/127973048" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/127973048">Introduction to Music Cognition</a> from <a href="https://vimeo.com/user11692346">Kris Shaffer</a> on <a href="https://vimeo.com">Vimeo</a>.</p></div>
 
 Welcome! As you're gearing up for the course, please be sure to examine the [syllabus](/syllabus/) and [course policies](/policies/) carefully. Once you've done so and watched the above video, please do the following **by 3 p.m. (MDT) on Monday, June 1:**
 

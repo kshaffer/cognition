@@ -35,7 +35,10 @@ I will create videos for core concepts of Week 1, which you can use both as stud
 
 Each successful video will earn one assessment point, up to a total of 18 videos.
 
-*Explanatory video to be added.*
+<div class="center-video">
+<iframe src="https://player.vimeo.com/video/127973047" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/127973047">Collaborative quizzes</a> from <a href="https://vimeo.com/user11692346">Kris Shaffer</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+</div>
+
 
 *Sample conceptual videos (Week 1 concepts) to be added.*
 
@@ -43,7 +46,6 @@ Each successful video will earn one assessment point, up to a total of 18 videos
 
 At the beginning of Weeks 3, 4, and 5, I will post 2 or more passing videos for each core concept (with the permission of the students who created them) in the D2L forum. For at least two of the concepts, leave a substantive, positive comment under the video that you like best for each concept. For example, "[So-and-so]'s comparison of the live and studio recordings of the same song helped me understand the potential emotional impact of an unexpected rhythmic delay." For each concept, the video with the most positive comments will be posted to the class's Vimeo channel. Each student who provides substantive, positive comments for videos in at least two conceptual categories by the deadline (Tuesdays at 8am MDT) will receive one assessment point.
 
-*Video explanation to be added.*
 
 ## Conceptual mapping
 
@@ -53,9 +55,12 @@ You are strongly encouraged to collaborate on answering these questions accurate
 
 Each valid contribution to the conceptual map will earn one assessment point, up to a total of 8 (2 per week).
 
+<div class="center-video">
+<iframe src="https://player.vimeo.com/video/127973049" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/127973049">Building a concept map</a> from <a href="https://vimeo.com/user11692346">Kris Shaffer</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+</div>
+
 *Link to collaborative concept map to be added.*
 
-*Video explanation to be added.*
 
 ## Final project
 
