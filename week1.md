@@ -18,9 +18,9 @@ image: memory.jpg
 What is a musical note? a chord? rhythm? Do musicians define these differently than cognitive scientists? What exactly do we *hear* when we listen to music?
 
 We will engage these and other related questions during this unit, as we begin to explore the workings of the human auditory system and basic musical concepts.
-<br/>
 
-<iframe src="https://player.vimeo.com/video/127963043" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/127963043">Unit I Introduction (Music Cognition)</a> from <a href="https://vimeo.com/user11692346">Kris Shaffer</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<div class="center-video">
+<iframe src="https://player.vimeo.com/video/127963043" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/127963043">Unit I Introduction (Music Cognition)</a> from <a href="https://vimeo.com/user11692346">Kris Shaffer</a> on <a href="https://vimeo.com">Vimeo</a>.</p></div>
 
 ## Core concepts
 
