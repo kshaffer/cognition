@@ -40,7 +40,8 @@ Because music cognition is a heavily interdisciplinary field, I do not expect al
 - David Huron, [*Sweet Anticipation: Music and the Psychology of Expectation*](https://openlibrary.org/works/OL5851060W/Sweet_Anticipation).  
 - [*Open Music Theory*](http://www.openmusictheory.com) (free web access).  
 - A web-enabled device that is capable of reading online text, accessing the course website, recording video, and participating in group video chats.    
-- A free, public Twitter account (pseudonyms allowed; please read [privacy policy](https://twitter.com/privacy?lang=en) before signing up).
+- A free, public Twitter account (pseudonyms allowed; please read [privacy policy](https://twitter.com/privacy?lang=en) before signing up).  
+- An account to [Spotify](http://www.spotify.com) (a free account is fine).
 
 All other required class materials will be posted or linked to on the course site.
 
