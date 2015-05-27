@@ -39,7 +39,7 @@ In this unit, we will explore the following core concepts:
 
 For **Monday, June 1, 3pm MDT,** complete the introductory activities. See [Getting started](/introductions/) for details.
 
-For **Wednesday, June 3, 3pm MDT,** please read/watch the following and then take Quiz 1 on D2L:
+For **Wednesday, June 3, 3pm MDT,** please read/watch the following and then take [Quiz 1](/quiz1/) on D2L:
 
 - *Music and Memory*, Chapter 1, "Auditory Memory: an Overview"  
 - *Open Music Theory*, ["Meter"](http://openmusictheory.com/meter.html)  
