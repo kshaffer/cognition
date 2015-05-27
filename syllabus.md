@@ -28,7 +28,7 @@ Email: kris.shaffer@colorado.edu
 Twitter: @krisshaffer  
 Course website: [cognition.shaffermusic.com](http://cognition.shaffermusic.com/)  
 Online community: [Twitter](http://twitter.com), hashtag #muscog  
-Discussion forum:  TBA
+Discussion forum:  D2L
 
 ## Prerequisite knowledge
 
