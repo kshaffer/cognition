@@ -57,3 +57,12 @@ For **Wednesday, June 24, 3pm MDT,** please read/watch the following and then ta
 - Video: ["Introduction to musical form"]() (link forthcoming)  
 
 For **Friday, June 26, 8am MDT,** submit five core concept videos on concepts *from the Week 3 or Week 4 lists.* See the [Assignment guide](/assessments/) for details.
+
+## Learning objectives
+
+This unit is directed towards the following student goals:
+
+- ability to recognize, recall, and/or find basic information about the core concepts listed above  
+- ability to synthesize and apply the core concepts listed above, individually or in collaboration with others, in a written explanation  
+- ability to articulate an accurate definition and at least one example of application about the core concepts from Weeks 3 and 4 in one's own words  
+- contribute to public understanding of the relationship between music and cognitive science  

@@ -34,3 +34,13 @@ Students must have earned 37 points by the beginning of Week 5 (Monday, June 29)
 Students who do not qualify for the final project may submit up to 5 points worth of new or reattempted videos and/or concept map contributions during the final week. *No collaboration allowed, no further reassessments allowed.*
 
 All final projects and reassessments are due by **8am, Friday July 3.**
+
+## Learning objectives
+
+This unit is directed towards the following student goals:
+
+- ability to synthesize and apply the core concepts listed above, individually or in collaboration with others, in a written explanation  
+- ability to articulate an accurate definition and at least one example of application about the core concepts in one's own words (reassessments)  
+- contribute to public understanding of the relationship between music and cognitive science  
+- ability to construct and articulate substantive, manageable goals (final project)  
+- ability to self-assess progress towards those goals (final project)  

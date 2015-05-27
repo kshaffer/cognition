@@ -32,6 +32,8 @@ In this unit, we will explore the following core concepts:
 - primitive auditory grouping  
 - learned auditory grouping  
 - habituation  
+- musical meter  
+- musical keys  
 
 ## Assignments
 
@@ -55,3 +57,12 @@ For **Friday, June 5, 3pm MDT,** please read/watch the following and then take Q
 - *Music and Memory*, Chapter 10, "Event Fusion"  
 
 Keep in mind the collaborative nature of the D2L quizzes. See the [Assignment guide](/assessments/) for details.
+
+## Learning objectives
+
+This unit is directed towards the following student goals:
+
+- familiarity with the course website and D2L site  
+- ability to post video and comments to the D2L discussion forum  
+- ability to recognize, recall, and/or find basic information about the core concepts listed above  
+- ability to synthesize and apply the core concepts listed above, individually or in collaboration with others, in a written explanation  
