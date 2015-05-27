@@ -26,7 +26,7 @@ Instructor: [Kris Shaffer, Ph.D.](http://kris.shaffermusic.com)
 Physical office: MUS N138  
 Email: kris.shaffer@colorado.edu  
 Twitter: @krisshaffer  
-Course website: [courses.shaffermusic.com](http://courses.shaffermusic.com/cognitionOnline.html)  
+Course website: [cognition.shaffermusic.com](http://cognition.shaffermusic.com/)  
 Online community: [Twitter](http://twitter.com), hashtag #muscog  
 Discussion forum:  TBA
 
@@ -119,7 +119,7 @@ See also CU's [Introduction to D2L Platform](http://www.colorado.edu/oit/service
 
 ## Policies
 
-For instructor and university policies relevant to this course, please see [this page]({{ root_url }}/policies.html).
+For instructor and university policies relevant to this course, please see [this page]({{ root_url }}/policies/).
 
 ## About this syllabus
 
