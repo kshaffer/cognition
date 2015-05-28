@@ -50,7 +50,7 @@ For **Wednesday, June 3, 3pm MDT,** please read/watch the following and then tak
 - *Open Music Theory*, ["Pitches"](http://openmusictheory.com/pitches.html)  
 - *Open Music Theory*, ["Scales and scale degrees"](http://openmusictheory.com/scales.html)  
 
-For **Friday, June 5, 3pm MDT,** please read/watch the following and then take Quiz 2 on D2L:
+For **Friday, June 5, 3pm MDT,** please read/watch the following and then take [Quiz 2](/quiz2/) on D2L:
 
 - *Music and Memory*, Chapter 2, "Echoic Memory"  
 - *Music and Memory*, Chapter 3, "Grouping"  

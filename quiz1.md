@@ -19,13 +19,13 @@ Keep in mind the collaborative nature of the D2L quizzes. See the [Assignment gu
 
 4. What is the difference between major and (natural) minor scales?
 
-5. What is the difference between simple and compound meter?
+5. Define simple meter.
 
-6. Define recognition.
+6. Define compound meter.
 
-7. Define recollection.
+7. Define recognition.
 
-8. When two different strings on a guitar are plucked/strummed simultaneously, why do we hear two pitches instead of one?
+8. Define recollection.
 
 9. What is one problem with Snyder's organization of music (events, melodic/rhythmic patterns, large-scale form) according to three modes of temporal processing (echoic, short-term, long-term memory)?
 
