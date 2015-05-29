@@ -33,12 +33,12 @@ In this unit, we will explore the following new core concepts. These *and the co
 For **Monday, June 8, 3pm MDT,** please read/watch the following and then take Quiz 3 on D2L:
 
 - *Music and Memory*, Chapter 3, "Grouping"  
+- *Open Music Theory*, ["Introduction to musical functions"](http://openmusictheory.com/functions.html)  
 - Video: ["Triads"](https://vimeo.com/94521923)  
 - Video: ["Guitar harmony"](https://vimeo.com/94527744)  
 - Video: ["Analyzing triads"](https://vimeo.com/94723962) (optional)  
 - *Open Music Theory*, ["Intervals"](http://openmusictheory.com/intervals.html) (optional)  
 - *Open Music Theory*, ["Triads and seventh chords"](http://openmusictheory.com/triads.html) (optional)  
-- *Open Music Theory*, ["Phrases"]() (link forthcoming)  
 
 For **Wednesday, June 10, 8am MDT,** submit two written explanations of the relationship between two different core concepts on our emerging [concept map]() (link forthcoming). See the [Assignment guide](/assessments/) for details on the expectations and collaborative opportunities for this assignment.
 
