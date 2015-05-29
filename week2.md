@@ -34,6 +34,7 @@ For **Monday, June 8, 3pm MDT,** please read/watch the following and then take Q
 
 - *Music and Memory*, Chapter 3, "Grouping"  
 - *Open Music Theory*, ["Introduction to musical functions"](http://openmusictheory.com/functions.html)  
+- Video: ["Musical tone & pitch"](https://vimeo.com/129254238)  
 - Video: ["Triads"](https://vimeo.com/94521923)  
 - Video: ["Guitar harmony"](https://vimeo.com/94527744)  
 - Video: ["Analyzing triads"](https://vimeo.com/94723962) (optional)  
