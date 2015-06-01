@@ -30,9 +30,9 @@ In this unit, we will explore the following new core concepts. These *and the co
 
 ## Assignments
 
-For **Monday, June 8, 3pm MDT,** please read/watch the following and then take Quiz 3 on D2L:
+For **Monday, June 8, 3pm MDT,** please read/watch the following and then take [Quiz 3](/quiz3/) on D2L:
 
-- *Music and Memory*, Chapter 3, "Grouping"  
+- Isabel Peretz, ["The Nature of music from a biological perspective,"](http://eamusic.dartmouth.edu/~larry/music1052008/readings/peretz.pdf) from *Cognition* 100 (2006)  
 - *Open Music Theory*, ["Introduction to musical functions"](http://openmusictheory.com/functions.html)  
 - Video: ["Musical tone & pitch"](https://vimeo.com/129254238)  
 - Video: ["Triads"](https://vimeo.com/94521923)  
