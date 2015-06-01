@@ -2,7 +2,7 @@
 layout: page
 title: Quiz 3 (due June 8, 3pm MDT)
 subTitle: "Music Cognition (PSYC 4541), CU–Boulder, Summer 2015"
-image: memory.jpg
+image: string.jpg
 ---
 
 Following are the questions for Quiz 3. Keep them in mind as you do the readings and watch the videos, discuss them with each other, and then take the quiz in D2L before the deadline.
