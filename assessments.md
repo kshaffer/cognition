@@ -59,7 +59,9 @@ Each valid contribution to the conceptual map will earn one assessment point, up
 <iframe src="https://player.vimeo.com/video/127973049" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/127973049">Building a concept map</a> from <a href="https://vimeo.com/user11692346">Kris Shaffer</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 </div>
 
-*Link to collaborative concept map to be added.*
+<iframe id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" width="640" height="400" src="https://prezi.com/embed/ntsoqg1f9m7i/?bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=0&amp;autohide_ctrls=0&amp;PARENT_REQUEST_ID=930b5d69ca638a42#"></iframe>
+
+Or [view the concept map directly on Prezi](https://prezi.com/ntsoqg1f9m7i/music-cognition/).
 
 
 ## Final project
