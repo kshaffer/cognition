@@ -27,6 +27,11 @@ There will be two reading/video assignments each week, with reading quizzes due 
 
 There will be a total of 8 quizzes, worth a total of 16 assessment points.
 
+<div class="center-video">
+<iframe src="https://player.vimeo.com/video/127973047" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/127973047">Collaborative quizzes</a> from <a href="https://vimeo.com/user11692346">Kris Shaffer</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+</div>
+
+
 ## Conceptual videos
 
 In Weeks 2–4, create five videos each week explaining core concepts from that unit or a preceding unit. These videos should be *no more than 60 seconds*, and in them you should explain the concept in your own words and present at least one example or application to elucidate that explanation. For example, in explaining the concept of *interference*, you can present a song in which the melody for each verse is almost, but not quite, identical, making it more difficult to memorize or perform upon first encounter. Videos that explain the concept accurately and coherently with a relevant example will receive full assessment credit. Videos submitted by the deadline but not up to standard will be allowed a single reassesment opportunity within three weekdays of feedback being posted. For each concept, the student who produces the video that is deemed the most clear and engaging will be given the opportunity to share it with the class and the public on the course Vimeo channel. Throughout the course, and especially at the end of our core concept study, this channel will provide a high-quality set of concise explanations for student review and public consumption.
@@ -34,11 +39,6 @@ In Weeks 2–4, create five videos each week explaining core concepts from that 
 I will create videos for core concepts of Week 1, which you can use both as study guides and as examples for your videos in Weeks 2–4.
 
 Each successful video will earn one assessment point, up to a total of 18 videos.
-
-<div class="center-video">
-<iframe src="https://player.vimeo.com/video/127973047" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/127973047">Collaborative quizzes</a> from <a href="https://vimeo.com/user11692346">Kris Shaffer</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-</div>
-
 
 *Sample conceptual videos (Week 1 concepts) to be added.*
 
