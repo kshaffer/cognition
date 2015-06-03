@@ -43,7 +43,7 @@ For **Monday, June 8, 3pm MDT,** please read/watch the following and then take [
 
 For **Wednesday, June 10, 8am MDT,** submit two written explanations of the relationship between two different core concepts on our emerging [concept map]() (link forthcoming). See the [Assignment guide](/assessments/) for details on the expectations and collaborative opportunities for this assignment.
 
-For **Wednesday, June 10, 3pm MDT,** please read/watch the following and then take Quiz 4 on D2L:
+For **Wednesday, June 10, 3pm MDT,** please read/watch the following and then take [Quiz 4](/quiz4/) on D2L:
 
 - *Music and Memory*, Chapter 4, "Short-Term and Working Memory"  
 - *Music and Memory*, Chapter 5, "Closure"  
