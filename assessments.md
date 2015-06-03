@@ -40,7 +40,7 @@ I will create videos for core concepts of Week 1, which you can use both as stud
 
 Each successful video will earn one assessment point, up to a total of 18 videos.
 
-*Sample conceptual videos (Week 1 concepts) to be added.*
+I've created two sample videos that you can use as models: [Habituation](https://vimeo.com/129590808) and [Learned Auditory Grouping](https://vimeo.com/129686217).
 
 ## Video voting
 
