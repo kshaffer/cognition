@@ -8,10 +8,10 @@ image: string.jpg
 ## Schedule
 
 **Monday, June 8 (due 3pm MDT):** reading and quiz 3  
-**Tuesday, June 9, time TBA:** video office hours  
+**Tuesday, June 9:** video office hours – **11am in-person (Imig Music Bldg., rm. N138)** -or- **7pm video chat**  
 ***Canceled:* Wednesday, June 10 (due 8am MDT):** concept map contributions due  
 **Wednesday, June 10 (due 3pm MDT):** reading and quiz 4  
-**Thursday, June 11, time TBA:** video office hours  
+**Thursday, June 11:** video or in-person office hours by request/appointment  
 **Friday, June 12 (due 8am MDT):** core concept video submissions due
 
 ## Unit introduction
