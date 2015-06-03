@@ -52,7 +52,7 @@ For **Monday, June 15, 3pm MDT,** please read/watch the following and then take 
 
 For **Tuesday, June 16, 8am MDT,** submit votes for your colleagues' core concept videos from Week 2 on D2L. For at least two of the concepts, leave a substantive, positive comment under the video that you like best for each concept. See the [Assignment guide](/assessments/) for further details.
 
-For **Wednesday, June 17, 8am MDT,** submit two written explanations of the relationship between two different core concepts on our emerging [concept map]() (link forthcoming). These relationships should each involve at least one concept from Week 2. (Connections between two Week 2 concepts, or between one Week 2 concept and one Week 1 concept are both fair game.) See the [Assignment guide](/assessments/) for details on the expectations and collaborative opportunities for this assignment.
+For **Wednesday, June 17, 8am MDT,** submit three written explanations of the relationship between two different core concepts on our emerging [concept map](https://prezi.com/ntsoqg1f9m7i/music-cognition/). These relationships should each involve at least one concept from Week 2. (Connections between two Week 2 concepts, or between one Week 2 concept and one Week 1 concept are both fair game.) See the [Assignment guide](/assessments/) for details on the expectations and collaborative opportunities for this assignment.
 
 For **Wednesday, June 17, 3pm MDT,** please read/watch the following and then take Quiz 4 on D2L:
 
