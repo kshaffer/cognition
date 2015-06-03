@@ -31,8 +31,7 @@ Keep in mind the collaborative nature of the D2L quizzes. See the [Assignment gu
 
 9. Find a song/piece of music that contains an example of closure where at least three different musical parameters (pitch height, rhythmic activity, dynamics/volume, instrumentation, etc.) decrease in intensity. Provide the artist, title, a link (Spotify preferable, YouTube is okay) and the timing of the moment of closure.
 
-10. Find a song/piece of music with an example of what musicians call a "compound melody": a single voice or instrument that is alternating between notes that belong to two different streams. (See Snyder, p. 144, for a discussion of streams, and be sure to make use of the forum/Twitter for this one.)
-
+10. Find a song/piece of music with an example of what musicians call a "compound melody": a single voice or instrument that is alternating between notes that belong to two different streams. Provide the artist, title, a link (Spotify preferable, YouTube is okay) and the timing of the moment of compound melody. (See Snyder, p. 144, for a discussion of streams, and be sure to make use of the forum/Twitter for this one. I recommend looking into solo violin music (like the Bach Partitas), fiddle music, or bagpipe music.)
 ## Learning objectives
 
 This quiz is directed towards the following student goals:
