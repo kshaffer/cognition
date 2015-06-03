@@ -10,7 +10,7 @@ image: memory.jpg
 **Monday, June 1:** introductions (see [Getting started](/introductions/))  
 **Tuesday, June 2, 11am–noon MDT:** video office hours  
 **Wednesday, June 3 (due 3pm MDT):** reading and quiz 1  
-**Thursday, June 4, time TBA:** video office hours  
+**Thursday, June 4, 7:30–8:30pm MDT:** [video office hours](https://cuboulder.zoom.us/j/938651227?pwd=NdZwbB%2BuaRg%3D)  
 **Friday, June 5 (due 3pm MDT):** reading and quiz 2
 
 ## Unit introduction
@@ -51,6 +51,8 @@ For **Wednesday, June 3, 3pm MDT,** please read/watch the following and then tak
 - Video: ["Minor scales & keys"](https://vimeo.com/94803688)  
 - *Open Music Theory*, ["Pitches"](http://openmusictheory.com/pitches.html)  
 - *Open Music Theory*, ["Scales and scale degrees"](http://openmusictheory.com/scales.html)  
+
+On **Thursday, June 4, 7:30pm MDT,** we will have our second video office hours meeting. A link to the chat is [here](https://cuboulder.zoom.us/j/938651227) (password is provided on D2L). This is the prime opportunity for some (if not all) of us to discuss things live, as a group. We will use Zoom, a video conferencing app supported by CU's Office of Information Technology. Please visit OIT's [Zoom support page](http://www.colorado.edu/oit/services/conferencing-services/web-conferencing-zoom) for information on setting up your account and downloading the software. There are both desktop and mobile versions. (It is possible to participate via phone instead of the app. See OIT's instructions, and contact me if you need help.)
 
 For **Friday, June 5, 3pm MDT,** please read/watch the following and then take [Quiz 2](/quiz2/) on D2L:
 
