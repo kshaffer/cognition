@@ -31,6 +31,18 @@ There will be a total of 8 quizzes, worth a total of 16 assessment points.
 <iframe src="https://player.vimeo.com/video/127973047" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/127973047">Collaborative quizzes</a> from <a href="https://vimeo.com/user11692346">Kris Shaffer</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 </div>
 
+## Quiz reassessments
+
+**For Quizzes 1–3 only:** If you are unhappy with your quiz result(s), you may reassess. For each incorrect answer on the quiz, please do the following:
+
+- **If the question is an information retrieval question (numbers 1–7),** simply resubmit a correct answer. (You can collaborate, and you can trade answers with each other. They simply need to be correct.) Please include a page number for the reading from which you found the answer (or a paragraph number if it is a web page without page numbers), or a timing for a video. The page/paragraph/timing reference is required in order to get credit.  
+- **If the question is an application question (numbers 8–10),** submit a correct answer. (Again, you can collaborate, and you can trade answers with each other. You can also include an answer from someone else's quiz that I marked correct.) **Also** write a one-to-two sentence explanation of why this new answer is better than your original response, referencing specific concepts from the relevant reading/video. 
+
+You cannot reassess questions/quizzes that you did not submit the first time around. In other words, if your original answer was blank, there is no reassessment opportunity for that question.
+
+These reassessments are due on **Friday, June 12, at 8am MDT.** Please email your reassessments to me at [kris.shaffer@colorado.edu](mailto:kris.shaffer@colorado.edu).
+
+<small>The idea here is to ensure that everyone has a correct understanding of the concepts, and we do that by breaking incorrect associations in long-term memory (or establishing new inhibitory connections) and replacing them with (hopefully stronger) correct associations. (This is what some psychologists call the *Delta Learning Rule*.) Since memory, and thus knowledge, is individually constructed — and since our brains didn't evolve to rewire itself in response to quiz feedback in the form of points! — we each need to go through this corrective work ourselves for it to have a significant effect.</small>
 
 ## Conceptual videos
 
