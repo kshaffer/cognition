@@ -40,7 +40,7 @@ There will be a total of 8 quizzes, worth a total of 16 assessment points.
 
 You cannot reassess questions/quizzes that you did not submit the first time around. In other words, if your original answer was blank, there is no reassessment opportunity for that question.
 
-These reassessments are due on **Friday, June 12, at 8am MDT.** Please email your reassessments to me at [kris.shaffer@colorado.edu](mailto:kris.shaffer@colorado.edu).
+These reassessments are due on **Friday, June 12, at 8am MDT.** Please email your reassessments to me at [kris.shaffer@colorado.edu](mailto:kris.shaffer@colorado.edu). Only email me answers to questions that you originally got incorrect, and be sure to note the quiz and question number for each one: "Quiz 1, Question 5", "Quiz 3, Question 2", etc.
 
 <small>The idea here is to ensure that everyone has a correct understanding of the concepts, and we do that by breaking incorrect associations in long-term memory (or establishing new inhibitory connections) and replacing them with (hopefully stronger) correct associations. (This is what some psychologists call the *Delta Learning Rule*.) Since memory, and thus knowledge, is individually constructed — and since our brains didn't evolve to rewire itself in response to quiz feedback in the form of points! — we each need to go through this corrective work ourselves for it to have a significant effect.</small>
 
