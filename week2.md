@@ -40,7 +40,7 @@ For **Monday, June 8, 3pm MDT,** please read/watch the following and then take [
 - *Open Music Theory*, ["Intervals"](http://openmusictheory.com/intervals.html) (optional)  
 - *Open Music Theory*, ["Triads and seventh chords"](http://openmusictheory.com/triads.html) (optional)  
 
-For **Wednesday, June 10, 3pm MDT,** please read/watch the following and then take [Quiz 4](/quiz4/) on D2L:
+For **Wednesday, June 10, 11:59pm MDT,** please read/watch the following and then take [Quiz 4](/quiz4/) on D2L:
 
 - *Music and Memory*, Chapter 4, "Short-Term and Working Memory"  
 - *Music and Memory*, Chapter 5, "Closure"  

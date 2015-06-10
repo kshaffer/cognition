@@ -37,7 +37,7 @@ This week we will explore the connection between music perception and cognition 
 
 ## Assignments
 
-For **Monday, June 22, 3pm MDT,** please read/watch the following and then take Quiz 3 on D2L:
+For **Monday, June 22, 3pm MDT,** please read/watch the following and then take Quiz 7 on D2L:
 
 - *Sweet Anticipation*, Chapter 1, "Introduction"  
 - *Sweet Anticipation*, Chapter 2, "Surprise"  
@@ -49,7 +49,7 @@ For **Tuesday, June 23, 8am MDT,** submit votes for your colleagues' core concep
 
 For **Wednesday, June 24, 8am MDT,** submit three written explanations of the relationship between two different core concepts on our emerging [concept map](https://prezi.com/ntsoqg1f9m7i/music-cognition/). These relationships should each involve at least one concept from Week 2. (Connections between two Week 2 concepts, or between one Week 2 concept and one Week 1 concept are both fair game.) See the [Assignment guide](/assessments/) for details on the expectations and collaborative opportunities for this assignment.
 
-For **Wednesday, June 24, 3pm MDT,** please read/watch the following and then take Quiz 4 on D2L:
+For **Wednesday, June 24, 11:59pm MDT,** please read/watch the following and then take Quiz 8 on D2L:
 
 - *Sweet Anticipation*, Chapter 9, "Tonality"  
 - *Music and Memory*, Chapter 13, "Form"  
