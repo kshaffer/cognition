@@ -43,7 +43,7 @@ This week we will explore the nature of musical styles and genres, and the cogni
 
 ## Assignments
 
-For **Monday, June 15, 11:59pm MDT,** please read/watch the following and then take Quiz 5 on D2L:
+For **Monday, June 15, 11:59pm MDT,** please read/watch the following and then take [Quiz 5](/quiz5/) on D2L:
 
 - *Music and Memory*, Chapter 6, "Long-term memory"  
 - *Music and Memory*, Chapter 7, "Categories"  
@@ -53,7 +53,7 @@ For **Tuesday, June 16, 8am MDT,** submit votes for your colleagues' core concep
 
 For **Wednesday, June 17, 8am MDT,** submit three written explanations of the relationship between two different core concepts on our emerging [concept map](https://prezi.com/ntsoqg1f9m7i/music-cognition/). These relationships should each involve at least one concept from Week 2. (Connections between two Week 2 concepts, or between one Week 2 concept and one Week 1 concept are both fair game.) See the [Assignment guide](/assessments/) for details on the expectations and collaborative opportunities for this assignment.
 
-For **Wednesday, June 17, 11:59pm MDT,** please read/watch the following and then take Quiz 6 on D2L:
+For **Wednesday, June 17, 11:59pm MDT,** please read/watch the following and then take [Quiz 6](/quiz6/) on D2L:
 
 - *Music and Memory*, Chapter 8, "Schemas"  
 - *Sweet Anticipation*, Chapter 11, "Genres, schemas, firewalls"  
