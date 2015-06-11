@@ -22,7 +22,6 @@ When a new song comes on the radio, how quickly do you know if you want to keep 
 
 This week we will explore the nature of musical styles and genres, and the cognitive functions that allow us to build a robust implicit understanding of musical styles and to recognize and judge them quickly. We will also explore the nature of musical expertise. Just what makes a musical expert? Are only trained musicians experts?
 
-*introductory video to be added*
 
 
 ## Core concepts
@@ -50,7 +49,7 @@ For **Monday, June 15, 11:59pm MDT,** please read/watch the following and then t
 - *Music and Memory*, Chapter 7, "Categories"  
 - *Music and Memory*, Chapter 12, "Rhythm"  
 
-For **Tuesday, June 16, 8am MDT,** submit votes for your colleagues' core concept videos from Week 2 on D2L. For at least two of the concepts, leave a substantive, positive comment under the video that you like best for each concept. See the [Assignment guide](/assessments/) for further details.
+For **Tuesday, June 16, 8am MDT,** submit votes for your colleagues' core concept videos from Week 2 on D2L. For at least two of the concepts, leave a substantive, positive comment under the video that you like best for each concept. See the [Assignment guide](/assessments/) for further details. (These will be posted before the weekend.)
 
 For **Wednesday, June 17, 8am MDT,** submit three written explanations of the relationship between two different core concepts on our emerging [concept map](https://prezi.com/ntsoqg1f9m7i/music-cognition/). These relationships should each involve at least one concept from Week 2. (Connections between two Week 2 concepts, or between one Week 2 concept and one Week 1 concept are both fair game.) See the [Assignment guide](/assessments/) for details on the expectations and collaborative opportunities for this assignment.
 
@@ -58,7 +57,9 @@ For **Wednesday, June 17, 11:59pm MDT,** please read/watch the following and the
 
 - *Music and Memory*, Chapter 8, "Schemas"  
 - *Sweet Anticipation*, Chapter 11, "Genres, schemas, firewalls"  
-- Video: ["Musical styles"]() (link forthcoming)  
+- Robert O. Gjerdingen, ["Defining Schemata"](https://drive.google.com/file/d/0B9o4hmKNoi6caHZNakRXTktScU0/view?usp=sharing) (from *Music in the Galant Style*)  
+- Kris Shaffer, ["Style and Tendency"](http://openmusictheory.com/tendency.html), from *Open Music Theory* (feel free to skim through the discussion of voice-leading rules)  
+- Allan F. Moore, [quote on the distinction between style and genre](http://sketches.shaffermusic.com/2015/on-the-distinction-between-style-and-genre-popmusicevolution), from "Categorical Conventions in Music Discourse: Style and Genre"  
 - Robert O. Gjerdingen & David Perrott, ["Scanning the dial: The rapid recognition of music genres"](http://faculty-web.at.northwestern.edu/music/gjerdingen/Papers/PubPapers/Scanning.pdf)  
 
 For **Friday, June 19, 8am MDT,** submit five core concept videos on concepts *from the Week 3 list only (see above).* See the [Assignment guide](/assessments/) for details.
