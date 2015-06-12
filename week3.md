@@ -13,7 +13,7 @@ image: schemas.jpg
 **Wednesday, June 17 (due 8am MDT):** concept map contributions due  
 **Wednesday, June 17 (due 3pm MDT):** reading and quiz 6  
 **Thursday, June 18:** office hours by appt. only  
-**Friday, June 19 (due 8am MDT):** core concept video submissions due
+**Friday, June 19 (due 8am MDT):** core concept video submissions due; Week 2 video reassessments due
 
 
 ## Unit introduction
@@ -62,7 +62,7 @@ For **Wednesday, June 17, 11:59pm MDT,** please read/watch the following and the
 - Allan F. Moore, [quote on the distinction between style and genre](http://sketches.shaffermusic.com/2015/on-the-distinction-between-style-and-genre-popmusicevolution), from "Categorical Conventions in Music Discourse: Style and Genre"  
 - Robert O. Gjerdingen & David Perrott, ["Scanning the dial: The rapid recognition of music genres"](http://faculty-web.at.northwestern.edu/music/gjerdingen/Papers/PubPapers/Scanning.pdf)  
 
-For **Friday, June 19, 8am MDT,** submit five core concept videos on concepts *from the Week 3 list only (see above).* See the [Assignment guide](/assessments/) for details.
+For **Friday, June 19, 8am MDT,** submit five core concept videos on concepts *from the Week 3 list only (see above).* See the [Assignment guide](/assessments/) for details. If you need to reassess any video submissions from Week 2, please include them with your new videos for Week 3. (Keep in mind that only assignments that were submitted to begin with will be considered for a reassessment.)
 
 ## Learning objectives
 
