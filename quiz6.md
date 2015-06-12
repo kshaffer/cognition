@@ -27,7 +27,7 @@ Keep in mind the collaborative nature of the D2L quizzes. See the [Assignment gu
 
 7. What musical parameter contains the most useful information for fast genre recognition? a) melody, b) harmony, c) rhythm, d) timbre, e) articulation, f) form
 
-8. Do a listener's specific musical expectations form before or after the first note is sounded?
+8. Do a listener's specific musical expectations begin to form before or after the first note is sounded?
 
 9. Must an exemplar contain all the defining features of a schemain order to be recognized as belonging to that schema?
 

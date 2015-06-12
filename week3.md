@@ -12,7 +12,7 @@ image: schemas.jpg
 **Tuesday, June 16:** office hours – **11am in-person (Imig Music Bldg., rm. N138)** -or- **[7pm video chat](https://cuboulder.zoom.us/j/376382269)**  
 **Wednesday, June 17 (due 8am MDT):** concept map contributions due  
 **Wednesday, June 17 (due 3pm MDT):** reading and quiz 6  
-**Thursday, June 18, time TBA:** video office hours  
+**Thursday, June 18:** office hours by appt. only  
 **Friday, June 19 (due 8am MDT):** core concept video submissions due
 
 
