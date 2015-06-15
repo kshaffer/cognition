@@ -8,8 +8,8 @@ image: schemas.jpg
 ## Schedule
 
 **Monday, June 15 (due 11:59pm MDT):** reading and quiz 5  
-**Tuesday, June 16 (due 8am MDT):** video votes due  
 **Tuesday, June 16:** office hours – **11am in-person (Imig Music Bldg., rm. N138)** -or- **[7pm video chat](https://cuboulder.zoom.us/j/376382269)**  
+**Wednesday, June 17 (due 8am MDT):** video votes due  
 **Wednesday, June 17 (due 8am MDT):** concept map contributions due  
 **Wednesday, June 17 (due 11:59pm MDT):** reading and quiz 6  
 **Thursday, June 18:** office hours by appt. only  
