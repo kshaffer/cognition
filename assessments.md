@@ -69,8 +69,8 @@ Each valid contribution to the conceptual map will earn one assessment point, up
 
 Example submission:
 
-> Echoic memory – pitch:  
-Echoic memory is responsible for the segmenting of sound into discrete pitches. Echoic memory analyzes the auditory sensory data to find regularities in vibration and then bind together those regularities that begin/end at the same time and have frequencies that can all be multiples of the same fundamental. These bound perceptions are pitches.
+> *Echoic memory – pitch:*  
+*Echoic memory is responsible for the segmenting of sound into discrete pitches. Echoic memory analyzes the auditory sensory data to find regularities in vibration and then bind together those regularities that begin/end at the same time and have frequencies that can all be multiples of the same fundamental. These bound perceptions are pitches.*
 
 Please note that you do not have to build your own map, simply submit your written explanations via D2L. I will build one master map for the class (below). Also, note that you do not need to include any examples of application, though you certainly may if it will help clarify your explanation.
 
