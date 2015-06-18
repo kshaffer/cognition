@@ -52,6 +52,8 @@ I will create videos for core concepts of Week 1, which you can use both as stud
 
 Each successful video will earn one assessment point, up to a total of 18 videos.
 
+**Update for Weeks 3 and 4:** Create three videos in Week 3 and two videos in Week 4. The new time limit is two minutes. They will each be worth 2 assessment points: one point for the definition/explanation, one point for the example of *musical* application.
+
 I've created two sample videos that you can use as models: [Habituation](https://vimeo.com/129590808) and [Learned Auditory Grouping](https://vimeo.com/129686217).
 
 ## Video voting

@@ -62,7 +62,7 @@ For **Wednesday, June 17, 11:59pm MDT,** please read/watch the following and the
 - Allan F. Moore, [quote on the distinction between style and genre](http://sketches.shaffermusic.com/2015/on-the-distinction-between-style-and-genre-popmusicevolution), from "Categorical Conventions in Music Discourse: Style and Genre"  
 - Robert O. Gjerdingen & David Perrott, ["Scanning the dial: The rapid recognition of music genres"](http://faculty-web.at.northwestern.edu/music/gjerdingen/Papers/PubPapers/Scanning.pdf)  
 
-For **Friday, June 19, 8am MDT,** submit five core concept videos on concepts *from the Week 3 list only (see above).* See the [Assignment guide](/assessments/) for details. If you need to reassess any video submissions from Week 2, please include them with your new videos for Week 3. (Keep in mind that only assignments that were submitted to begin with will be considered for a reassessment.)
+For **Friday, June 19, 8am MDT,** submit **three** core concept videos on concepts *from the Week 3 list only (see above).* Be sure to keep them **under two minutes** in duration, and to include **an example of musical application.** See the [Assignment guide](/assessments/) for details. If you need to reassess any video submissions from Week 2, please include them with your new videos for Week 3. (Keep in mind that only assignments that were submitted to begin with will be considered for a reassessment.)
 
 ## Learning objectives
 
