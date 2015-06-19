@@ -15,6 +15,8 @@ Keep in mind the collaborative nature of the D2L quizzes. See the [Assignment gu
 
 
 
+<iframe src="https://player.vimeo.com/video/131251236" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/131251236">U2 &ndash; Pride (In the Name of Love) timeline</a> from <a href="https://vimeo.com/user11692346">Kris Shaffer</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
 ## Learning objectives
 
 This quiz is directed towards the following student goals:
