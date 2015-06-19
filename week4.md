@@ -8,7 +8,7 @@ image: spiral.jpg
 ## Schedule
 
 **Monday, June 22 (due 11:59pm MDT):** reading and quiz 7  
-**Tuesday, June 23, time TBA:** video office hours  
+**Tuesday, June 23:** office hours – **11am in-person (Imig Music Bldg., rm. N138)** -or- **[7pm video chat](https://cuboulder.zoom.us/j/850567644)** (the usual password)  
 **Wednesday, June 24 (due 8am MDT):** video votes due  
 **Wednesday, June 24 (due 8am MDT):** concept map contributions due  
 **Wednesday, June 24 (due 11:59pm MDT):** reading and quiz 8  
