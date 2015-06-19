@@ -41,11 +41,13 @@ Keep in mind the collaborative nature of the D2L quizzes. See the [Assignment gu
 
 14. In "Pride (In the Name of Love)," between Verse 3 and the following chorus (approx. 2:42), list at least three musical features that appear/disappear/change to mark the sectional boundary. Include at least one primary parameter, and at least one secondary parameter.
 
+<div class="center-video">
 <iframe src="https://player.vimeo.com/video/131251236" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/131251236">U2 &ndash; Pride (In the Name of Love) timeline</a> from <a href="https://vimeo.com/user11692346">Kris Shaffer</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+</div>
 
 ## Learning objectives
 
 This quiz is directed towards the following student goals:
 
-- ability to recognize, recall, and/or find basic information about the core concepts listed in the [Week 2 Guide](/week2/) and explained in the readings/videos  
+- ability to recognize, recall, and/or find basic information about the core concepts listed in the [Week 4 Guide](/week4/) and explained in the readings/videos  
 - ability to synthesize and apply the core concepts, individually or in collaboration with others, in a written explanation  

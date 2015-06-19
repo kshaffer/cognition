@@ -39,5 +39,5 @@ Keep in mind the collaborative nature of the D2L quizzes. See the [Assignment gu
 
 This quiz is directed towards the following student goals:
 
-- ability to recognize, recall, and/or find basic information about the core concepts listed in the [Week 2 Guide](/week2/) and explained in the readings/videos  
+- ability to recognize, recall, and/or find basic information about the core concepts listed in the [Week 4 Guide](/week4/) and explained in the readings/videos  
 - ability to synthesize and apply the core concepts, individually or in collaboration with others, in a written explanation  
