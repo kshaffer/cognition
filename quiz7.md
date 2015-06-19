@@ -33,7 +33,7 @@ Keep in mind the collaborative nature of the D2L quizzes. See the [Assignment gu
 
 10. Small musical intervals are more likely to go: a) up, b) down.
 
-11. Provide an example of a musical passage that you think evokes a strong emotional response (provide both a link to audio/video and a timing for the passage). Explain how you think the musical structure evokes that response, in terms of the concepts presented in the Huror readings.
+11. Provide an example of a musical passage that you think evokes a strong emotional response (provide both a link to audio/video and a timing for the passage). Explain how you think the musical structure evokes that response, in terms of the concepts presented in the Huron readings.
 
 ## Learning objectives
 
