@@ -13,7 +13,27 @@ Keep in mind the collaborative nature of the D2L quizzes. See the [Assignment gu
 
 ## Questions
 
+1. According to Meyer, where does the principal source for music's emotive power lie?
 
+2. What do the letters in the acronym ITPRA stand for?
+
+3. Define conditional probability.
+
+4. Describe the probe-tone method.
+
+5. Which is true? a) Instinct is favored in a changing environment, learned behavior in an unchanging environment, or b) Learned behavior is favored in a changing environment, instinct behavior in an unchanging environment.
+
+6. Describe the Hick-Hyman law.
+
+7. Reaction responses are: a) learned, b) instinctive, c) sometimes learned and sometimes instinctive.
+
+8. What is "limbic contrast" and how does it impact our emotional response to a stimulus?
+
+9. A quick reaction time is correlated with: a) high expectation, b) surprise.
+
+10. Small musical intervals are more likely to go: a) up, b) down.
+
+11. Provide an example of a musical passage that you think evokes a strong emotional response (provide both a link to audio/video and a timing for the passage). Explain how you think the musical structure evokes that response, in terms of the concepts presented in the Huror readings.
 
 ## Learning objectives
 
