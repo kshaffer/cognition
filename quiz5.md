@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Quiz 5 (due June 15, 3pm MDT)
+title: Quiz 5 (due June 15, 11:59pm MDT)
 subTitle: "Music Cognition (PSYC 4541), CU–Boulder, Summer 2015"
 image: string.jpg
 ---
