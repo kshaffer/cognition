@@ -24,6 +24,8 @@ For **Tuesday, June 30, 8am MDT,** submit two written explanations of the relati
 
 ### General information
 
+All final projects and reassessments are due by **11:59pm, Thursday July 2.**
+
 *From the syllabus & assessment guide:*
 
 If you wish to obtain an A in the class, you will construct a final project that applies course concepts in a domain not discussed in class, or critiques some presentation of material in class. You and I will negotiate the details of these projects one-on-one, with the goals of 1) finding a project in line with your interests, 2) adding to public human knowledge/understanding, and 3) moving beyond the memorization, understanding, and synthesis of course concepts into the realm of application and critique. Shortly after midterm, you will have an opportunity to propose project ideas, and our negotiations will be completed before the beginning of Week 5, with a clear contract of expectations laid out. You may only pursue the final project if you have met the appropriate threshold (see below).
@@ -59,8 +61,6 @@ Here is [a sample project contract on Google Drive](https://docs.google.com/docu
 ## Final reassessments
 
 Students who do not qualify for the final project may submit up to 5 points worth of new or reattempted videos and/or concept map contributions during the final week. *No collaboration allowed, no further reassessments allowed.*
-
-All final projects and reassessments are due by **11:59pm, Thursday July 2.**
 
 ## Learning objectives
 
