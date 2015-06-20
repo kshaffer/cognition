@@ -9,6 +9,7 @@ image: spiral.jpg
 
 **Monday, June 22 (due 11:59pm MDT):** reading and quiz 7  
 **Tuesday, June 23:** office hours – **11am in-person (Imig Music Bldg., rm. N138)** -or- **[7pm video chat](https://cuboulder.zoom.us/j/850567644)** (the usual password)  
+**Wednesday, June 24 (due 8am MDT):** draft final project contracts due  
 **Wednesday, June 24 (due 8am MDT):** video votes due  
 **Wednesday, June 24 (due 8am MDT):** concept map contributions due  
 **Wednesday, June 24 (due 11:59pm MDT):** reading and quiz 8  
@@ -45,6 +46,8 @@ For **Monday, June 22, 11:59pm MDT,** please read/watch the following and then t
 - *Sweet Anticipation*, Chapter 3, "Measuring musical expectation"  
 - *Sweet Anticipation*, Chapter 4, "Auditory learning"  
 - *Sweet Anticipation*, Chapter 5, "Statistical properties of music"  
+
+For **Wednesday, June 28, 8am MDT,** submit a draft contract for the final project. See the [Week 5 Guide](/week5/) for information on the final project. (If you do not think you will meet the threshold required to submit a final A-level project, there is no need to submit a contract proposal. Simply focus on your work for this week, and begin to make plans for reassessments during Week 5. If you have any question about whether or not you will meet the threshold, please contact me.)
 
 For **Wednesday, June 28, 8am MDT,** submit votes for your colleagues' core concept videos from Week 3 on D2L. For at least two of the concepts, leave a substantive, positive comment under the video that you like best for each concept. See the [Assignment guide](/assessments/) for further details.
 
