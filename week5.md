@@ -66,8 +66,8 @@ Students who do not qualify for the final project may submit up to 5 points wort
 
 This unit is directed towards the following student goals:
 
-- ability to synthesize and apply the core concepts listed above, individually or in collaboration with others, in a written explanation  
 - ability to articulate an accurate definition and at least one example of application about the core concepts in one's own words (reassessments)  
 - contribute to public understanding of the relationship between music and cognitive science  
 - ability to construct and articulate substantive, manageable goals (final project)  
 - ability to self-assess progress towards those goals (final project)  
+- ability to synthesize multiple core concepts in a project of application (final project)
