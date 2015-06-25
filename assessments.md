@@ -87,9 +87,7 @@ Please note that you do not have to build your own map, simply submit your writt
 
 If you wish to obtain an A in the class, you will construct a final project that applies course concepts in a domain not discussed in class, or critiques some presentation of material in class. You and I will negotiate the details of these projects one-on-one, with the goals of 1) finding a project in line with your interests, 2) adding to public human knowledge/understanding, and 3) moving beyond the memorization, understanding, and synthesis of course concepts into the realm of application and critique. Shortly after midterm, you will have an opportunity to propose project ideas, and our negotiations will be completed before the beginning of Week 5, with a clear contract of expectations laid out. You may only pursue the final project if you have met the appropriate threshold (see below).
 
-*Video explanation to be added.*
-
-*Sample project contract to be added.*
+See [Week 5 Guide](/week5/) for details and a sample project contract.
 
 
 ## Assessments & grades (from the syllabus)
