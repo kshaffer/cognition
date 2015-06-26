@@ -18,7 +18,7 @@ image: water.jpg
 
 ## Assignments
 
-For **Tuesday, June 30, 8am MDT,** submit comments for your colleagues' core concept videos from Week 4 on D2L. For at least three of the concepts, leave a substantive, positive comment in response to your colleague's video. See below for further details.
+For **Tuesday, June 30, 8am MDT,** submit comments for at least three of your colleagues' core concept videos from Week 4 on D2L or Twitter. See below for further details.
 
 For **Tuesday, June 30, 8am MDT,** submit two written explanations of the relationship between two different core concepts on our emerging [concept map](https://prezi.com/ntsoqg1f9m7i/music-cognition/). These relationships should each involve at least one concept from Week 4. (Connections between two Week 4 concepts, or between one Week 4 concept and one concept from earlier weeks are both fair game.) See the [Assignment guide](/assessments/) for details on the expectations and collaborative opportunities for this assignment.
 
