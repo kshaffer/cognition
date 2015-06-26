@@ -9,15 +9,22 @@ image: water.jpg
 
 **Tuesday, June 30 (due 8am MDT):** video votes due  
 **Tuesday, June 30 (due 8am MDT):** concept map contributions due  
+**Thursday, July 2 (due 11:59pm MDT):** Week 4 video redos due
 **Thursday, July 2 (due 11:59pm MDT):** final projects and reassessments due
 
 *Note the earlier-than-usual deadlines, since classes end on Thursday instead of Friday. Also, in lieu of office hours, I will be available for individual appointments in-person or via video for any who would like assistance on the final project or reassessments.*
+
+*Also note that OIT will be updating D2L on Saturday, July 4. That means I must complete all my grading by July 3. As a result, I have no room to accept late submissions. If you think there will be a problem meeting the deadline, get in touch with me ASAP.*
 
 ## Assignments
 
 For **Tuesday, June 30, 8am MDT,** submit votes for your colleagues' core concept videos from Week 4 on D2L. For at least two of the concepts, leave a substantive, positive comment under the video that you like best for each concept. See the [Assignment guide](/assessments/) for further details.
 
 For **Tuesday, June 30, 8am MDT,** submit two written explanations of the relationship between two different core concepts on our emerging [concept map](https://prezi.com/ntsoqg1f9m7i/music-cognition/). These relationships should each involve at least one concept from Week 4. (Connections between two Week 4 concepts, or between one Week 4 concept and one concept from earlier weeks are both fair game.) See the [Assignment guide](/assessments/) for details on the expectations and collaborative opportunities for this assignment.
+
+For **Thursday, July 2, 11:59pm MDT,** if you did not receive full marks (4/4) for your Week 4 videos, you may redo whatever you need to bring that score up to 4/4. These are *separate from* the five-point final reassessments or project. Anyone can do them *in addition to* the final reassessments or project.
+
+For **Thursday, July 2, 11:59pm MDT,** submit *either* a final project *or* five reassessment videos/conceptual connections. See below for details.
 
 
 ## Final projects
@@ -60,7 +67,9 @@ Here is [a sample project contract on Google Drive](https://docs.google.com/docu
 
 ## Final reassessments
 
-Students who do not qualify for the final project may submit up to 5 points worth of new or reattempted videos and/or concept map contributions during the final week. *No collaboration allowed, no further reassessments allowed.*
+Students who do not qualify for the final project may submit up to 5 points worth of new or reattempted videos and/or concept map contributions during the final week. Each video is worth two points, each concept map connection is worth one point. Instructions are the same as for the regular Week 3 and 4 assignments. You may choose any combination of videos and/or concept map relationships, and you may choose any concepts on the core concepts list for all four weeks, and submit them in the same "Final Reassessments" dropbox on D2L.
+
+*Ther is no collaboration allowed, and no further reassessments allowed for these.*
 
 ## Learning objectives
 
