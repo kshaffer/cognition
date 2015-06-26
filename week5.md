@@ -9,7 +9,7 @@ image: water.jpg
 
 **Tuesday, June 30 (due 8am MDT):** video comments due  
 **Tuesday, June 30 (due 8am MDT):** concept map contributions due  
-**Thursday, July 2 (due 11:59pm MDT):** Week 4 video redos due
+**Thursday, July 2 (due 11:59pm MDT):** Week 4 video redos due  
 **Thursday, July 2 (due 11:59pm MDT):** final projects and reassessments due
 
 *Note the earlier-than-usual deadlines, since classes end on Thursday instead of Friday. Also, in lieu of office hours, I will be available for individual appointments in-person or via video for any who would like assistance on the final project or reassessments.*
