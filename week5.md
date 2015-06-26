@@ -7,7 +7,7 @@ image: water.jpg
 
 ## Schedule
 
-**Tuesday, June 30 (due 8am MDT):** video votes due  
+**Tuesday, June 30 (due 8am MDT):** video comments due  
 **Tuesday, June 30 (due 8am MDT):** concept map contributions due  
 **Thursday, July 2 (due 11:59pm MDT):** Week 4 video redos due
 **Thursday, July 2 (due 11:59pm MDT):** final projects and reassessments due
@@ -18,13 +18,20 @@ image: water.jpg
 
 ## Assignments
 
-For **Tuesday, June 30, 8am MDT,** submit votes for your colleagues' core concept videos from Week 4 on D2L. For at least two of the concepts, leave a substantive, positive comment under the video that you like best for each concept. See the [Assignment guide](/assessments/) for further details.
+For **Tuesday, June 30, 8am MDT,** submit comments for your colleagues' core concept videos from Week 4 on D2L. For at least three of the concepts, leave a substantive, positive comment in response to your colleague's video. See below for further details.
 
 For **Tuesday, June 30, 8am MDT,** submit two written explanations of the relationship between two different core concepts on our emerging [concept map](https://prezi.com/ntsoqg1f9m7i/music-cognition/). These relationships should each involve at least one concept from Week 4. (Connections between two Week 4 concepts, or between one Week 4 concept and one concept from earlier weeks are both fair game.) See the [Assignment guide](/assessments/) for details on the expectations and collaborative opportunities for this assignment.
 
 For **Thursday, July 2, 11:59pm MDT,** if you did not receive full marks (4/4) for your Week 4 videos, you may redo whatever you need to bring that score up to 4/4. These are *separate from* the five-point final reassessments or project. Anyone can do them *in addition to* the final reassessments or project. Please upload your redo videos to the original Week 4 Conceptual Videos dropbox.
 
 For **Thursday, July 2, 11:59pm MDT,** submit *either* a final project *or* five reassessment videos/conceptual connections. See below for details.
+
+
+## Video comments
+
+This week, there was a greater diversity of topic choice for the videos, so there aren't enough topics with multiple videos to vote on. So instead, I have selected several new videos to upload to the concept map. Please go to our [concept map](https://prezi.com/ntsoqg1f9m7i/music-cognition/) (or the class [Vimeo channel](https://vimeo.com/channels/917196)), choose three concepts *for which you did not make a video yourself and for which you have not voted in previous weeks*, watch the videos for those concepts, and then post a substantive, positive comment in response to each of those videos. You can either post the comment as a new thread on the D2L discussion forum, or (if your comfortable), you can tweet your comment to the person who made the video (using the #muscog hashtag so I can find it).
+
+Please use this assignment as an opportunity to review concepts that you are a little fuzzy on, as you are getting started on your final project or your reassessments, as well as to offer some positive encouragement to each other.
 
 
 ## Final projects
