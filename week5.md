@@ -7,20 +7,20 @@ image: water.jpg
 
 ## Schedule
 
-**Tuesday, June 30 (due 8am MDT):** video comments due  
-**Tuesday, June 30 (due 8am MDT):** concept map contributions due  
+**Wednesday, July 1 (due 8am MDT):** video comments due  
+**Wednesday, July 1 (due 8am MDT):** concept map contributions due  
 **Thursday, July 2 (due 11:59pm MDT):** Week 4 video redos due  
 **Thursday, July 2 (due 11:59pm MDT):** final projects and reassessments due
 
-*Note the earlier-than-usual deadlines, since classes end on Thursday instead of Friday. Also, in lieu of office hours, I will be available for individual appointments in-person or via video for any who would like assistance on the final project or reassessments.*
+*Note the earlier-than-usual last deadline, since classes end on Thursday instead of Friday. Also, in lieu of office hours, I will be available for individual appointments in-person or via video for any who would like assistance on the final project or reassessments.*
 
 *Also note that OIT will be updating D2L on Saturday, July 4. That means I must complete all my grading by July 3. As a result, I have no room to accept late submissions. If you think there will be a problem meeting the deadline, get in touch with me ASAP.*
 
 ## Assignments
 
-For **Tuesday, June 30, 8am MDT,** submit comments for at least three of your colleagues' core concept videos from Week 4 on D2L or Twitter. See below for further details.
+For **Wednesday, July 1, 8am MDT,** submit comments for at least three of your colleagues' core concept videos from Week 4 on D2L or Twitter. See below for further details.
 
-For **Tuesday, June 30, 8am MDT,** submit two written explanations of the relationship between two different core concepts on our emerging [concept map](https://prezi.com/ntsoqg1f9m7i/music-cognition/). These relationships should each involve at least one concept from Week 4. (Connections between two Week 4 concepts, or between one Week 4 concept and one concept from earlier weeks are both fair game.) See the [Assignment guide](/assessments/) for details on the expectations and collaborative opportunities for this assignment.
+For **Wednesday, July 1, 8am MDT,** submit two written explanations of the relationship between two different core concepts on our emerging [concept map](https://prezi.com/ntsoqg1f9m7i/music-cognition/). These relationships should each involve at least one concept from Week 4. (Connections between two Week 4 concepts, or between one Week 4 concept and one concept from earlier weeks are both fair game.) See the [Assignment guide](/assessments/) for details on the expectations and collaborative opportunities for this assignment.
 
 For **Thursday, July 2, 11:59pm MDT,** if you did not receive full marks (4/4) for your Week 4 videos, you may redo whatever you need to bring that score up to 4/4. These are *separate from* the five-point final reassessments or project. Anyone can do them *in addition to* the final reassessments or project. Please upload your redo videos to the original Week 4 Conceptual Videos dropbox.
 
