@@ -7,38 +7,29 @@ image: water.jpg
 
 ## Schedule
 
-**Wednesday, July 1 (due 8am MDT):** video comments due  
-**Wednesday, July 1 (due 8am MDT):** concept map contributions due  
-**Thursday, July 2 (due 11:59pm MDT):** Week 4 video redos due  
-**Thursday, July 2 (due 11:59pm MDT):** final projects and reassessments due
+**Wednesday, June 29 (due 7am MDT):** video comments due  
+**Wednesday, June 29 (due 7am MDT):** concept map contributions due  
+**Thursday, June 30 (due 7am MDT):** Week 4 video redos due  
+**Friday, June 29 (due 7am MDT):** final projects and reassessments due
 
-*Note the earlier-than-usual last deadline, since classes end on Thursday instead of Friday. Also, in lieu of office hours, I will be available for individual appointments in-person or via video for any who would like assistance on the final project or reassessments.*
-
-*Also note that OIT will be updating D2L on Saturday, July 4. That means I must complete all my grading by July 3. As a result, I have no room to accept late submissions. If you think there will be a problem meeting the deadline, get in touch with me ASAP.*
+*In lieu of office hours, I will be available for individual appointments via video for any who would like assistance on the final project or reassessments.*
 
 ## Assignments
 
-For **Wednesday, July 1, 8am MDT,** submit comments for at least three of your colleagues' core concept videos from Week 4 on D2L or Twitter. See below for further details.
+For **Wednesday, June 29, 7am MDT,** submit comments for at least three of your colleagues' core concept videos from Week 4 on D2L or Twitter. See below for further details.
 
-For **Wednesday, July 1, 8am MDT,** submit two written explanations of the relationship between two different core concepts on our emerging [concept map](https://prezi.com/ntsoqg1f9m7i/music-cognition/). These relationships should each involve at least one concept from Week 4. (Connections between two Week 4 concepts, or between one Week 4 concept and one concept from earlier weeks are both fair game.) See the [Assignment guide](/assessments/) for details on the expectations and collaborative opportunities for this assignment.
+For **Wednesday, June 29, 7am MDT,** submit two written explanations of the relationship between two different core concepts on our emerging [concept map](https://prezi.com/ntsoqg1f9m7i/music-cognition/). These relationships should each involve at least one concept from Week 4. (Connections between two Week 4 concepts, or between one Week 4 concept and one concept from earlier weeks are both fair game.) See the [Assignment guide](/assessments/) for details on the expectations and collaborative opportunities for this assignment.
 
-For **Thursday, July 2, 11:59pm MDT,** if you did not receive full marks (4/4) for your Week 4 videos, you may redo whatever you need to bring that score up to 4/4. These are *separate from* the five-point final reassessments or project. Anyone can do them *in addition to* the final reassessments or project. Please upload your redo videos to the original Week 4 Conceptual Videos dropbox.
+For **Friday, July 1, 7am MDT,** if you did not receive full marks (4/4) for your Week 4 videos, you may redo whatever you need to bring that score up to 4/4. These are *separate from* the five-point final reassessments or project. Anyone can do them *in addition to* the final reassessments or project. Please upload your redo videos to the original Week 4 Conceptual Videos dropbox.
 
-For **Thursday, July 2, 11:59pm MDT,** submit *either* a final project *or* five reassessment videos/conceptual connections. See below for details.
-
-
-## Video comments
-
-This week, there was a greater diversity of topic choice for the videos, so there aren't enough topics with multiple videos to vote on. So instead, I have selected several new videos to upload to the concept map. Please go to our [concept map](https://prezi.com/ntsoqg1f9m7i/music-cognition/) (or the class [Vimeo channel](https://vimeo.com/channels/917196)), choose three concepts *for which you did not make a video yourself and for which you have not voted in previous weeks*, watch the videos for those concepts, and then post a substantive, positive comment in response to each of those videos. You can either post the comment as a new thread on the D2L discussion forum, or (if your comfortable), you can tweet your comment to the person who made the video (using the #muscog hashtag so I can find it).
-
-Please use this assignment as an opportunity to review concepts that you are a little fuzzy on, as you are getting started on your final project or your reassessments, as well as to offer some positive encouragement to each other.
+For **Friday, July 1, 7am MDT,** submit *either* a final project *or* five reassessment videos/conceptual connections. See below for details.
 
 
 ## Final projects
 
 ### General information
 
-All final projects and reassessments are due by **11:59pm, Thursday July 2.**
+All final projects and reassessments are due by **7am, Friday July 1.**
 
 *From the syllabus & assessment guide:*
 
@@ -68,7 +59,7 @@ For all of these topics, I can point you to specific resources to explore.
 
 ### Project contracts
 
-Contract proposals are due in draft form by Wednesday, June 24, 8am MDT. I will reply with comments and suggestions to help ensure that your proposed project meets the goals listed above, represents a manageable workload, and has clearly articulated learning objectives and grading standards. Final contracts must be submitted by Friday, June 26, 8am MDT. If any changes are still necessary at that point, I will make them unilaterally to ensure appropriate standards are met.
+Contract proposals are due in draft form by Wednesday, June 24, 7am MDT. I will reply with comments and suggestions to help ensure that your proposed project meets the goals listed above, represents a manageable workload, and has clearly articulated learning objectives and grading standards. Final contracts must be submitted by Friday, June 26, 7am MDT. If any changes are still necessary at that point, I will make them unilaterally to ensure appropriate standards are met.
 
 Here is [a sample project contract on Google Drive](https://docs.google.com/document/d/1ioK0rbBb98R6TSG4mBBfjH0ri_9Xz5Iva46qTkRExUs/edit?usp=sharing). Please make a copy of this document by going to the File menu and clicking "Make a copy." Then edit your new document to match your interests/goals, and share with me (File >> Share >> give kris.shaffer@colorado.edu permission to *edit* the document). Contact me *early* with any questions you have.
 

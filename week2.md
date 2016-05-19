@@ -7,12 +7,10 @@ image: string.jpg
 
 ## Schedule
 
-**Monday, June 8 (due 3pm MDT):** reading and quiz 3  
-**Tuesday, June 9:** video office hours – **11am in-person (Imig Music Bldg., rm. N138)** -or- **[7pm video chat](https://cuboulder.zoom.us/j/684731425)**  
-***Canceled:* Wednesday, June 10 (due 8am MDT):** concept map contributions due  
-**Wednesday, June 10 (due 3pm MDT):** reading and quiz 4  
-**Thursday, June 11:** video or in-person office hours by request/appointment  
-**Friday, June 12 (due 8am MDT):** core concept video submissions due
+**Monday, June 6 (due 7am MDT):** reading and quiz 3  
+**Wednesday, June 8 (due 8am MDT):** concept map contributions due  
+**Wednesday, June 8 (due 7am MDT):** reading and quiz 4  
+**Friday, June 10 (due 7am MDT):** core concept video submissions due
 
 ## Unit introduction
 
@@ -29,7 +27,7 @@ In this unit, we will explore the following new core concepts. These *and the co
 
 ## Assignments
 
-For **Monday, June 8, 3pm MDT,** please read/watch the following and then take [Quiz 3](/quiz3/) on D2L:
+For **Monday, June 6, 7am MDT,** please read/watch the following and then take [Quiz 3](/quiz3/) on D2L:
 
 - Isabel Peretz, ["The Nature of music from a biological perspective,"](http://eamusic.dartmouth.edu/~larry/music1052008/readings/peretz.pdf) from *Cognition* 100 (2006)  
 - *Open Music Theory*, ["Introduction to musical functions"](http://openmusictheory.com/functions.html)  
@@ -40,13 +38,13 @@ For **Monday, June 8, 3pm MDT,** please read/watch the following and then take [
 - *Open Music Theory*, ["Intervals"](http://openmusictheory.com/intervals.html) (optional)  
 - *Open Music Theory*, ["Triads and seventh chords"](http://openmusictheory.com/triads.html) (optional)  
 
-For **Wednesday, June 10, 11:59pm MDT,** please read/watch the following and then take [Quiz 4](/quiz4/) on D2L:
+For **Wednesday, June 8, 7am MDT,** please read/watch the following and then take [Quiz 4](/quiz4/) on D2L:
 
 - *Music and Memory*, Chapter 4, "Short-Term and Working Memory"  
 - *Music and Memory*, Chapter 5, "Closure"  
 - *Music and Memory*, Chapter 11, "Melody"  
 
-For **Friday, June 12, 8am MDT,** submit five core concept videos. See the [Assignment guide](/assessments/) for details.
+For **Friday, June 10, 7am MDT,** submit five core concept videos. See the [Assignment guide](/assessments/) for details.
 
 ### Supplemental material
 

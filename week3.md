@@ -7,13 +7,11 @@ image: schemas.jpg
 
 ## Schedule
 
-**Monday, June 15 (due 11:59pm MDT):** reading and quiz 5  
-**Tuesday, June 16:** office hours – **11am in-person (Imig Music Bldg., rm. N138)** -or- **[7pm video chat](https://cuboulder.zoom.us/j/376382269)**  
-**Wednesday, June 17 (due 8am MDT):** video votes due  
-**Wednesday, June 17 (due 8am MDT):** concept map contributions due  
-**Wednesday, June 17 (due 11:59pm MDT):** reading and quiz 6  
-**Thursday, June 18:** office hours by appt. only  
-**Friday, June 19 (due 8am MDT):** core concept video submissions due; Week 2 video reassessments due
+**Monday, June 13 (due 7am MDT):** reading and quiz 5  
+**Wednesday, June 15 (due 7am MDT):** video votes due  
+**Wednesday, June 15 (due 7am MDT):** concept map contributions due  
+**Wednesday, June 15 (due 7am MDT):** reading and quiz 6  
+**Friday, June 17 (due 7am MDT):** core concept video submissions due; Week 2 video reassessments due
 
 
 ## Unit introduction
@@ -43,17 +41,17 @@ This week we will explore the nature of musical styles and genres, and the cogni
 
 ## Assignments
 
-For **Monday, June 15, 11:59pm MDT,** please read/watch the following and then take [Quiz 5](/quiz5/) on D2L:
+For **Monday, June 13, 7am MDT,** please read/watch the following and then take [Quiz 5](/quiz5/) on D2L:
 
 - *Music and Memory*, Chapter 6, "Long-term memory"  
 - *Music and Memory*, Chapter 7, "Categories"  
 - *Music and Memory*, Chapter 12, "Rhythm"  
 
-For **Wednesday, June 17, 8am MDT,** submit votes for your colleagues' core concept videos from Week 2 on D2L. For at least two of the concepts, leave a substantive, positive comment under the video that you like best for each concept. See the [Assignment guide](/assessments/) for further details. (These will be posted before the weekend.)
+For **Wednesday, June 15, 7am MDT,** submit votes for your colleagues' core concept videos from Week 2 on D2L. For at least two of the concepts, leave a substantive, positive comment under the video that you like best for each concept. See the [Assignment guide](/assessments/) for further details. (These will be posted before the weekend.)
 
-For **Wednesday, June 17, 8am MDT,** submit three written explanations of the relationship between two different core concepts on our emerging [concept map](https://prezi.com/ntsoqg1f9m7i/music-cognition/). These relationships should each involve at least one concept from Week 2. (Connections between two Week 2 concepts, or between one Week 2 concept and one Week 1 concept are both fair game.) See the [Assignment guide](/assessments/) for details on the expectations and collaborative opportunities for this assignment.
+For **Wednesday, June 15, 7am MDT,** submit three written explanations of the relationship between two different core concepts on our emerging [concept map](https://prezi.com/ntsoqg1f9m7i/music-cognition/). These relationships should each involve at least one concept from Week 2. (Connections between two Week 2 concepts, or between one Week 2 concept and one Week 1 concept are both fair game.) See the [Assignment guide](/assessments/) for details on the expectations and collaborative opportunities for this assignment.
 
-For **Wednesday, June 17, 11:59pm MDT,** please read/watch the following and then take [Quiz 6](/quiz6/) on D2L:
+For **Wednesday, June 15, 7am MDT,** please read/watch the following and then take [Quiz 6](/quiz6/) on D2L:
 
 - *Music and Memory*, Chapter 8, "Schemas"  
 - *Sweet Anticipation*, Chapter 11, "Genres, schemas, firewalls"  
@@ -62,13 +60,4 @@ For **Wednesday, June 17, 11:59pm MDT,** please read/watch the following and the
 - Allan F. Moore, [quote on the distinction between style and genre](http://sketches.shaffermusic.com/2015/on-the-distinction-between-style-and-genre-popmusicevolution), from "Categorical Conventions in Music Discourse: Style and Genre"  
 - Robert O. Gjerdingen & David Perrott, ["Scanning the dial: The rapid recognition of music genres"](http://faculty-web.at.northwestern.edu/music/gjerdingen/Papers/PubPapers/Scanning.pdf)  
 
-For **Friday, June 19, 8am MDT,** submit **three** core concept videos on concepts *from the Week 3 list only (see above).* Be sure to keep them **under two minutes** in duration, and to include **an example of musical application.** See the [Assignment guide](/assessments/) for details. If you need to reassess any video submissions from Week 2, please include them with your new videos for Week 3. (Keep in mind that only assignments that were submitted to begin with will be considered for a reassessment.)
-
-## Learning objectives
-
-This unit is directed towards the following student goals:
-
-- ability to recognize, recall, and/or find basic information about the core concepts listed above  
-- ability to synthesize and apply the core concepts listed above, individually or in collaboration with others, in a written explanation  
-- ability to articulate an accurate definition and at least one example of application about the core concepts from Week 3 in one's own words  
-- contribute to public understanding of the relationship between music and cognitive science  
+For **Friday, June 17, 7am MDT,** submit **three** core concept videos on concepts *from the Week 3 list only (see above).* Be sure to keep them **under two minutes** in duration, and to include **an example of musical application.** See the [Assignment guide](/assessments/) for details. If you need to reassess any video submissions from Week 2, please include them with your new videos for Week 3. (Keep in mind that only assignments that were submitted to begin with will be considered for a reassessment.)
