@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Week 1 – Introduction to auditory memory
-subTitle: "Music Cognition (PSYC 4541), CU–Boulder, Summer 2015"
+subTitle: "Music Cognition (PSYC 4541), CU–Boulder, Summer 2016"
 image: memory.jpg
 ---
 

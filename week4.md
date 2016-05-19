@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Week 4 – Form, expectation, emotion
-subTitle: "Music Cognition (PSYC 4541), CU–Boulder, Summer 2015"
+subTitle: "Music Cognition (PSYC 4541), CU–Boulder, Summer 2016"
 image: spiral.jpg
 ---
 

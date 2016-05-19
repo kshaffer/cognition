@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Policies
-subTitle: "Music Cognition (PSYC 4541), CU–Boulder, Summer 2015"
+subTitle: "Music Cognition (PSYC 4541), CU–Boulder, Summer 2016"
 image: control.jpg
 ---
 
@@ -9,7 +9,7 @@ In general, be professional, take responsibility for your own learning and intel
 
 ## Attendance
 
-I do not grade attendance or participation directly in my courses. Nor do I grade assignment completion, give points for "effort," accept late work, or give extra credit. Exceptions can be made for students who are diligent in their work, petition for an exception *in writing* as soon as they realize that an exception may be needed, and make a legitimate case that an exception is warranted. 
+I do not grade attendance or participation directly in my courses. Nor do I grade assignment completion, give points for "effort," accept late work, or give extra credit. Exceptions can be made for students who are diligent in their work, petition for an exception *in writing* as soon as they realize that an exception may be needed, and make a legitimate case that an exception is warranted.
 
 ## Religious observances
 
@@ -42,8 +42,3 @@ All students of the University of Colorado at Boulder are responsible for knowin
 Please note that I received my undergraduate degree from an institution with an honor code, and I take it very seriously. That means that I will exercise a great deal of trust when I give you individual assignments, and that I will come down hard on violations of that trust. Because of the collaborative nature of many of the assignments in this course, this shouldn't be a problem as long as you are respectful of each other as you work together.
 
 *All work submitted in this class must include a written reaffirmation of the CU honor code*.
-
-
-
-
-
