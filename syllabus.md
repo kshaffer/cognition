@@ -95,7 +95,7 @@ My goal in grading is three-fold: to diminish their significance and the negativ
 
 With that in mind, assessment will be oriented around specific concepts and skills, most of which will be assessed pass/fail. In order to facilitate learning, the bulk of the assessments will allow collaboration in some form.
 
-The final project/reassessments will be worth one letter grade (10% of the final grade). The remainder of the assignments will be of equal value (except for conceptual videos, which will be worth double the other assignments), contributing to 90% of the final grade. The entire list can be found on the [assignment guide](/assessments/) and in the D2L grade book.
+The final project/reassessments will be worth one letter grade (10% of the final grade). The remainder of the assignments will be of equal value (except for conceptual videos and paragraphs, which will each be worth triple the other assignments), contributing to 90% of the final grade. The entire list can be found on the [assignment guide](/assessments/) and in the D2L grade book.
 
 Final letter grades will be determined by the percentage of points passed according to the usual 90/80/70/60 scale.
 
