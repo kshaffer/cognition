@@ -81,6 +81,7 @@ Assessed coursework will include the following:
 - Introductory materials  
 - Reading/video quizzes  
 - Conceptual videos  
+- Conceptual paragraphs  
 - Conceptual mapping  
 - Final project  
 
