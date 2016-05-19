@@ -20,15 +20,14 @@ See the [Getting started](/introductions/) page.
 ## General course information
 
 Course title: Advanced Topics in Psychology: Music Cognition  
-Course number: PSYC 4541
-Term: Summer 2015 (June)  
+Course number: PSYC 4541  
+Term: Summer 2016 (June)  
 Instructor: [Kris Shaffer, Ph.D.](http://kris.shaffermusic.com)  
-Physical office: MUS N138  
-Email: kris.shaffer@colorado.edu  
+Email: kris.shaffer@colorado.edu (backup: kris.shaffer@gmail.com)  
 Twitter: @krisshaffer  
-Course website: [cognition.shaffermusic.com](http://cognition.shaffermusic.com/)  
-Online community: [Twitter](http://twitter.com), hashtag #muscog  
-Discussion forum:  D2L
+Course website: [muscog.cubouldermusictheory.com](http://muscog.cubouldermusictheory.com/)  
+Online community: [Slack](https://muscog16.slack.com)  
+Gradebook:  D2L
 
 ## Prerequisite knowledge
 
@@ -40,7 +39,7 @@ Because music cognition is a heavily interdisciplinary field, I do not expect al
 - David Huron, [*Sweet Anticipation: Music and the Psychology of Expectation*](https://openlibrary.org/works/OL5851060W/Sweet_Anticipation).  
 - [*Open Music Theory*](http://www.openmusictheory.com) (free web access).  
 - A web-enabled device that is capable of reading online text, accessing the course website, recording video, and participating in group video chats.    
-- A free, public Twitter account (pseudonyms allowed; please read [privacy policy](https://twitter.com/privacy?lang=en) before signing up).  
+- Membership in the class [Slack community](https://muscog16.slack.com) (free & private).  
 - An account to [Spotify](http://www.spotify.com) (a free account is fine).
 
 All other required class materials will be posted or linked to on the course site.
@@ -48,19 +47,21 @@ All other required class materials will be posted or linked to on the course sit
 N.B.: Before purchasing the two textbooks, please consider the choice of print v. electronic carefully. Research suggests that paper copies help most people retain information better than electronic books. On the other hand, ebooks are searchable in ways that print books are not. And, of course, cost is a factor. Finally, some ebook publishers collect data from consumers' ereaders, while others (and paper, of course) do not.
 
 
+## Reaching the instructor
+
+The best way to reach me during the course is via [Slack](https://muscog16.slack.com). If you have a private question, you can send me a private Slack message. If you have a question that others would benefit from hearing, you can ask me a question in the Slack general channel and tag me (@kris). If you need to contact me before or after the course, or are having difficulty getting set up on Slack, you can  [email me](mailto:kris.shaffer@colorado.edu). Please allow up to 24 hours for a response, though during summer courses, I tend to respond much more quickly than that during morning and afternoon. Messages sent on Saturday or Sunday will likely not receive a reply until Monday.
+
 ## Units of study
 
-Introduction (June 1): [Getting started](/introductions/)
+Week 1 (May 31–June 3): [Introduction to auditory memory](/week1/)
 
-Week 1 (June 2–5): [Introduction to auditory memory](/week1/)
+Week 2 (June 6–10): [Music on the small scale – chords, phrases, rhythm](/week2/)
 
-Week 2 (June 8–12): [Music on the small scale – chords, phrases, rhythm](/week2/)
+Week 3 (June 13–17): [Schemas, categories, styles](/week3/)
 
-Week 3 (June 15–19): [Schemas, categories, styles](/week3/)
+Week 4 (June 20–24): [Form, expectation, emotion](/week4/)
 
-Week 4 (June 22–26): [Form, expectation, emotion](/week4/)
-
-Week 5 (June 29–July 3): [Final projects and reassessments](/week5/)
+Week 5 (June 27–July 1): [Final projects and reassessments](/week5/)
 
 
 ## Coursework
@@ -71,16 +72,15 @@ Students will be provided with the following informational resources to engage d
 
 **Videos** created by me, which will offer audio/visual explanations of concepts in the reading, demonstrations of how those concepts are applied in specific situations, contradictory perspectives to those expressed in the readings, and alternative explanations.
 
-**Core concept lists** will be provided for each unit, which will form the basis for the conceptual videos and maps (and assessment requirements) listed below.
+**Core concept lists** will be provided for each unit, which will form the basis for assessments.
 
-We will also have a private discussion forum for registered students (D2L), a public discussion forum (Twitter, using the hashtag #muscog), and twice-weekly video-chat office hours. These are the primary places for you to ask questions of clarification, to compare notes with each other as you work on assignments, and for me to ask provocative questions about the readings, videos, and potential points of application.
+We will also have a private discussion forum for registered students (Slack) and twice-weekly video-chat office hours. These are the primary places for you to ask questions of clarification, to compare notes with each other as you work on assignments, and for me to ask provocative questions about the readings, videos, and potential points of application.
 
 Assessed coursework will include the following:
 
 - Introductory materials  
 - Reading/video quizzes  
 - Conceptual videos  
-- Video voting  
 - Conceptual mapping  
 - Final project  
 
@@ -92,24 +92,11 @@ The most important and interesting aspects of learning are things that are diffi
 
 My goal in grading is three-fold: to diminish their significance and the negative impact they can have on the learning environment, to direct your studies clearly (but flexibly), and to make sure that they do carry some meaningful representation of the knowledge and skills you possess and gain by the end of the course.
 
-With that in mind, assessment will be oriented around specific concepts and skills, all of which will be assessed pass/fail — no partial credit. In order to facilitate learing, the bulk of the assessments will either allow collaboration or reassessment, if not passed on the first attempt.
+With that in mind, assessment will be oriented around specific concepts and skills, most of which will be assessed pass/fail. In order to facilitate learning, the bulk of the assessments will allow collaboration in some form.
 
-Following are assessment types and points towards the final grade:
+The final project/reassessments will be worth one letter grade (10% of the final grade). The remainder of the assignments will be of equal value (except for conceptual videos, which will be worth double the other assignments), contributing to 90% of the final grade. The entire list can be found on the [assignment guide](/assessments/) and in the D2L grade book.
 
-- **Introductory activities** (video, tweet, and D2L comments): 1-point each, total of 3 points.  
-- **Quizzes:** 2 points each, 8 quizzes, total of 16 points. Half or more questions correct will earn 1 point. 90% or more questions correct will earn 2 points. *Collaboration encouraged (see specific quiz instructions).* No reassessments allowed.  
-- **Conceptual videos:** 1 point each, 15 videos required (5 per week during weeks 2–4). *Collaboration not allowed.* Reassessments encouraged within three class days of receiving feedback.  
-- **Video voting:** 1 point each, 3 weeks. No reassessments. Only comments received by the deadline will count.  
-- **Concept map contributions:** 1 point each, 8 contributions required (2 per week). *Collaboration encouraged (see instructions).* No reassessments allowed.  
-- **Final project:** 5 points (rubric negotiated between student and instructor). Students must have earned 35 points by the beginning of Week 5 (Monday, June 29) in order to pursue a final project. *Collaboration permitted if approved by the instructor in the contract for the project.* Since they are due on the last day of class, there is no reassessment opportunity, but the contract should make the grade clear to students when they submit.  
-- **Final reassessments:** Students who do not qualify for the final project may submit up to 5 points worth of new or reattempted videos and/or concept map contributions during the final week. *No collaboration allowed, no further reassessments allowed.*
-
-These assignments total a possible 50 points. Final letter grades will be determined by the percentage of points passed according to the usual 90/80/70/60 scale.
-
-
-## Reaching the instructor
-
-The best ways to reach me during the course are [email](mailto:kris.shaffer@colorado.edu) and [Twitter](http://twitter.com/krisshaffer). Please allow up to 24 hours for a response, though during summer courses, I tend to respond much more quickly than that during morning and afternoon. Messages sent on Saturday or Sunday will likely not receive a reply until Monday.
+Final letter grades will be determined by the percentage of points passed according to the usual 90/80/70/60 scale.
 
 
 ## Technical support

@@ -9,65 +9,60 @@ Following are written and/or video descriptions of the activities that will be a
 
 *Some of my assessment practices may be unfamiliar to you. For more information on why I grade the way that I do, please see my blog post, ["Why Grade?"](http://kris.shaffermusic.com/2014/07/why-grade/). I am glad to answer any questions you have (the earlier the better) and to entertain proposals for changes or exceptions (again, the earlier the better).*
 
-## Introductory materials
+## Introductions
 
-On the first day of class (Monday, June 1), there will be three introductory activities to help you get oriented to the course and the technological environment. These are each worth one assessment point.
+At the beginning of the course (due on Wednesday, June 1), there will be three introductory activities to help you get oriented to the course and the technological environment. These are each worth one assessment point.
 
-- a personal introduction video  
-- a tweet to me with the course hashtag  
+- join the class discussion forum, Slack  
+- make a personal introduction video and upload it to Slack  
 - watch each other's introductory videos and comment on at least two of them
 
 See [Getting started](/introductions/) for details.
 
 ## Reading/video quizzes
 
-There will be two reading/video assignments each week, with reading quizzes due to be completed by 3pm on Monday and Wednesday of each week (Wednesday and Friday of Week 1). Each quiz will contain approximately 10 questions, two-thirds of which involve the raw regurgitation of information, one-third of which require higher-level thinking to arrive at an answer not made explicitly in the reading/video. You are strongly encouraged to collaborate on answering these questions accurately. Use the D2L forum, the Twitter #muscog hashtag, or other interpersonal communication to work together towards a joint solution — in small groups or as a whole class.
+There will be two reading/video assignments each week, with reading quizzes due to be completed by 8am on Monday and Wednesday of each week (Wednesday and Friday of Week 1). Each quiz will contain approximately 10 questions, most of which involve the raw regurgitation of information, and one or two of which require higher-level thinking to arrive at an answer not made explicitly in the reading/video. You are strongly encouraged to collaborate on answering these questions accurately. Use Slack to work together towards a joint solution — in small groups or as a whole class.
 
-50% or greater accuracy on the quiz will earn one assessment point, 90% or greater accuracy will earn the full two points. This means that you only have room for one incorrect answer to receive full credit, so make sure that your are confident in its accuracy, no matter which of your colleagues contributed to the group answer.
-
-There will be a total of 8 quizzes, worth a total of 16 assessment points.
+Quizzes will be graded on a percentage basis.
 
 <div class="center-video">
 <iframe src="https://player.vimeo.com/video/127973047" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/127973047">Collaborative quizzes</a> from <a href="https://vimeo.com/user11692346">Kris Shaffer</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 </div>
 
-## Quiz reassessments
-
-**For Quizzes 1–3 only:** If you are unhappy with your quiz result(s), you may reassess. For each incorrect answer on the quiz, please do the following:
-
-- **If the question is an information retrieval question (numbers 1–7),** simply resubmit a correct answer. (You can collaborate, and you can trade answers with each other. They simply need to be correct.) Please include a page number for the reading from which you found the answer (or a paragraph number if it is a web page without page numbers), or a timing for a video. The page/paragraph/timing reference is required in order to get credit.  
-- **If the question is an application question (numbers 8–10),** submit a correct answer. (Again, you can collaborate, and you can trade answers with each other. You can also include an answer from someone else's quiz that I marked correct.) **Also** write a one-to-two sentence explanation of why this new answer is better than your original response, referencing specific concepts from the relevant reading/video.
-
-You cannot reassess questions/quizzes that you did not submit the first time around. In other words, if your original answer was blank, there is no reassessment opportunity for that question.
-
-These reassessments are due on **Friday, June 12, at 8am MDT.** Please email your reassessments to me at [kris.shaffer@colorado.edu](mailto:kris.shaffer@colorado.edu). Only email me answers to questions that you originally got incorrect, and be sure to note the quiz and question number for each one: "Quiz 1, Question 5", "Quiz 3, Question 2", etc.
-
-<small>The idea here is to ensure that everyone has a correct understanding of the concepts, and we do that by breaking incorrect associations in long-term memory (or establishing new inhibitory connections) and replacing them with (hopefully stronger) correct associations. (This is what some psychologists call the *Delta Learning Rule*.) Since memory, and thus knowledge, is individually constructed — and since our brains didn't evolve to rewire itself in response to quiz feedback in the form of points! — we each need to go through this corrective work ourselves for it to have a significant effect.</small>
 
 ## Conceptual videos
 
-In Weeks 2–4, create five videos each week explaining core concepts from that unit or a preceding unit. These videos should be *no more than 60 seconds*, and in them you should explain the concept in your own words and present at least one example or application to elucidate that explanation. For example, in explaining the concept of *interference*, you can present a song in which the melody for each verse is almost, but not quite, identical, making it more difficult to memorize or perform upon first encounter. Videos that explain the concept accurately and coherently with a relevant example will receive full assessment credit. Videos submitted by the deadline but not up to standard will be allowed a single reassesment opportunity within three weekdays of feedback being posted. For each concept, the student who produces the video that is deemed the most clear and engaging will be given the opportunity to share it with the class and the public on the course Vimeo channel. Throughout the course, and especially at the end of our core concept study, this channel will provide a high-quality set of concise explanations for student review and public consumption.
+In Weeks 1–4, create two videos each week explaining core concepts from that unit or a preceding unit. These videos should be *no more than 90 seconds*, and in them you should explain the concept in your own words and present at least one example ***from a piece of music*** to elucidate that explanation. For example, in explaining the concept of *interference*, you can present a song in which the melody for each verse is almost, but not quite, identical, making it more difficult to memorize or perform upon first encounter. Videos that explain the concept accurately and coherently with a relevant example will receive full assessment credit. Students will be able to revise and resubmit *one* video the following week to regain full credit.
 
-I will create videos for core concepts of Week 1, which you can use both as study guides and as examples for your videos in Weeks 2–4.
+For each concept, one of the students who produced a clear and engaging video will be given the opportunity to share it with the class and the public on the course Vimeo channel and on our collaborative Prezi. Throughout the course, and especially at the end of our core concept study, this channel will provide a high-quality set of concise explanations for student review and public consumption.
 
-Each successful video will earn one assessment point, up to a total of 18 videos.
-
-**Update for Weeks 3 and 4:** Create three videos in Week 3 and two videos in Week 4. The new time limit is two minutes. They will each be worth 2 assessment points: one point for the definition/explanation, one point for the example of *musical* application.
+Each video will be worth three points: one point for the attempt, one point for the definition/explanation, one point for the example of *musical* application.
 
 I've created two sample videos that you can use as models: [Habituation](https://vimeo.com/129590808) and [Learned Auditory Grouping](https://vimeo.com/129686217).
 
-## Video voting
+You are welcome — indeed *encouraged* — to discuss these videos and share example ideas with each other in Slack. That will help you solidify the concepts in your own mind. However, be sure that any examples you borrow from others really are correct before you submit, and be sure that all definitions and explanations are in your own words. *In contrast to the reading quizzes, any "joint solutions" on the paragraphs will be considered an honor code violation.* Use each other to sharpen your understanding, but be sure that these paragraphs reflect your own thoughts expressed in your own words.
 
-At the beginning of Weeks 3, 4, and 5, I will post 2 or more passing videos for each core concept (with the permission of the students who created them) in the D2L forum. For at least two of the concepts, leave a substantive, positive comment under the video that you like best for each concept. For example, "[So-and-so]'s comparison of the live and studio recordings of the same song helped me understand the potential emotional impact of an unexpected rhythmic delay." For each concept, the video with the most positive comments will be posted to the class's Vimeo channel. Each student who provides substantive, positive comments for videos in at least two conceptual categories by the deadline (Tuesdays at 8am MDT) will receive one assessment point.
+
+## Conceptual paragraphs  
+
+At the end of each week, you will choose two of the core concepts – *for which you did not also make a video* – and write a single paragraph (approx. 100–200 words) explaining that concept in your own words. That paragraph should include three key elements:
+
+- an accurate definition of the concept in your own words (not a quote from the textbook or other source)  
+- reference to a specific piece or passage of music that exemplifies that concept  
+- an explanation of how the specific musical example relates to the concept
+
+These paragraphs will be assessed on a three point scale. Each of the above three elements that is present will earn one point.
+
+You are welcome — indeed *encouraged* — to discuss these paragraphs and share example ideas with each other in Slack. That will help you solidify the concepts in your own mind. However, be sure that any examples you borrow from others really are correct before you submit, and be sure that all definitions and explanations are in your own words. *In contrast to the reading quizzes, any "joint solutions" on the paragraphs will be considered an honor code violation.* Use each other to sharpen your understanding, but be sure that these paragraphs reflect your own thoughts expressed in your own words.
 
 
 ## Conceptual mapping
 
-We will collaboratively create a visual diagram that maps out our core concepts and their relationships. This diagram will include each of the core concepts for each unit, with lines drawn between concepts that are related, and a written or verbal explanation of each relationship (between one sentence and one paragraph per relationship). I will build one master concept map over the entirety of the course, based on your submissions. Each Wednesday, you will submit explanations for relationships between concepts from the previous week's study (the exact number will be posted on each week's assignment page). All correct explanations will receive credit, and the best explanation for each relationship will be posted to the collaborative concept map.
+We will collaboratively create a visual diagram that maps out our core concepts and their relationships, using the Prezi platform. This diagram will include each of the core concepts for each unit, with lines drawn between concepts that are related, and a written or verbal explanation of each relationship (between one sentence and one paragraph per relationship). I will build one master concept map over the entirety of the course, based on your submissions. Each Wednesday, you will watch the public videos from your colleagues from the previous week's study, and submit explanations for relationships between *two pairs* those concepts. All correct explanations will receive credit, and I will post samples or combinations of your explanations to the collaborative concept map.
 
-You are strongly encouraged to collaborate on answering these questions accurately. Use the D2L forum or the Twitter #muscog hashtag to work together towards a joint solution — in small groups or as a whole class. If the same answer is submitted by more than one person, *only those who provide evidence of their collaborative participation on D2L or Twitter will receive credit*. (Note: this is different from the quizzes.)
+You are strongly encouraged to collaborate on answering these questions accurately. Use Slack to work together towards a joint solution — in small groups or as a whole class. If the same answer is submitted by more than one person, *only those who provide evidence of their collaborative participation on Slack will receive credit*. (Note: this is different from the quizzes.)
 
-Each valid contribution to the conceptual map will earn one assessment point, up to a total of 8 (2 per week).
+Each conceptual relationship contribution will be worth a single assignment grade.
 
 Example submission:
 
@@ -80,7 +75,7 @@ Please note that you do not have to build your own map, simply submit your writt
 <iframe src="https://player.vimeo.com/video/127973049" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/127973049">Building a concept map</a> from <a href="https://vimeo.com/user11692346">Kris Shaffer</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 </div>
 
-<iframe id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" width="680" height="400" src="https://prezi.com/embed/ntsoqg1f9m7i/?bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=0&amp;autohide_ctrls=0&amp;PARENT_REQUEST_ID=930b5d69ca638a42#"></iframe><br/>Or [view the concept map directly on Prezi](https://prezi.com/ntsoqg1f9m7i/music-cognition/).
+***Prezi map to be added once the first round of videos are posted.***
 
 
 ## Final project
@@ -100,15 +95,15 @@ With that in mind, assessment will be oriented around specific concepts and skil
 
 Following are assessment types and points towards the final grade:
 
-- **Introductory activities** (video, tweet, and D2L comments): 1-point each, total of 3 points.  
-- **Quizzes:** 2 points each, 8 quizzes, total of 16 points. Half or more questions correct will earn 1 point. 90% or more questions correct will earn 2 points. *Collaboration encouraged (see specific quiz instructions).* No reassessments allowed.  
-- **Conceptual videos:** 1 point each, 15 videos required (5 per week during weeks 2–4). *Collaboration not allowed.* Reassessments encouraged within three class days of receiving feedback.  
-- **Video voting:** 1 point each, 3 weeks. No reassessments. Only comments received by the deadline will count.  
-- **Concept map contributions:** 1 point each, 8 contributions required (2 per week). *Collaboration encouraged (see instructions).* No reassessments allowed.  
-- **Final project:** 5 points (rubric negotiated between student and instructor). Students must have earned 35 points by the beginning of Week 5 (Monday, June 29) in order to pursue a final project. *Collaboration permitted if approved by the instructor in the contract for the project.* Since they are due on the last day of class, there is no reassessment opportunity, but the contract should make the grade clear to students when they submit.  
-- **Final reassessments:** Students who do not qualify for the final project may submit up to 5 points worth of new or reattempted videos and/or concept map contributions during the final week. *No collaboration allowed, no further reassessments allowed.*
+- **Introductory activities** (Slack setup, video, and video comments): 1 assignment credit each, total of 3 credits.  
+- **Quizzes:** 1 assignment credit each, 8 quizzes total. These will be graded by percentage of answers correct. *Collaboration encouraged (see specific quiz instructions).* No reassessments allowed.  
+- **Conceptual videos:** 3 assignment credits each, 8 videos required, worth 24 assignment credits total. *Collaboration not allowed.* Reassessments encouraged for a single video each week.  
+- **Conceptual paragraphs:** 3 assignment credits each, 8 paragraphs required, worth 24 assignment credits total. *Collaboration not allowed.* No reassessments allowed.  
+- **Concept map contributions:** 1 assignment credit each, 8 contributions required (2 per week). *Collaboration encouraged (see instructions).* No reassessments allowed.  
+- **Final project:** 8 assignment credits (rubric negotiated between student and instructor). Students must have earned 52 points by the beginning of Week 5 (Monday, June 27) in order to pursue a final project. *Collaboration permitted if approved by the instructor in the contract for the project.* Since they are due on the last day of class, there is no reassessment opportunity, but the contract should make the grade clear to students when they submit.  
+- **Final reassessments:** Students who do not qualify for the final project may submit up to 8 credits worth of new or reattempted videos and/or concept map contributions during the final week. *No collaboration allowed, no further reassessments allowed.*
 
-These assignments total a possible 50 points. Final letter grades will be determined by the percentage of points passed according to the usual 90/80/70/60 scale.
+These assignments total a possible 75 points. Final letter grades will be determined by the percentage of points passed according to the usual 90/80/70/60 scale.
 
 
 ## Technical support (from the syllabus)
