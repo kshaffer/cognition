@@ -10,7 +10,8 @@ image: string.jpg
 **Monday, June 6 (due 7am MDT):** reading and quiz 3  
 **Wednesday, June 8 (due 8am MDT):** concept map contributions due  
 **Wednesday, June 8 (due 7am MDT):** reading and quiz 4  
-**Friday, June 10 (due 7am MDT):** core concept video submissions due
+**Friday, June 10 (due 7am MDT):** core concept video submissions due  
+**Friday, June 10 (due 7am MDT):** core concept paragraph submissions due  
 
 ## Unit introduction
 
@@ -19,15 +20,18 @@ Is music really a "universal language"? This is a common claim from both musicia
 
 ## Core concepts
 
-In this unit, we will explore the following new core concepts. These *and the concepts from [Unit 1](/week1/)* are possible topics for your core concept videos (see below):
+In this unit, we will explore the following new core concepts. These *and the concepts from [Unit 1](/week1/)* are possible topics for your core concept videos and paragraphs (see below):
 
 - short-term memory  
 - working memory  
 - chunking  
+- the musical pitch  
+- the musical chord  
+
 
 ## Assignments
 
-For **Monday, June 6, 7am MDT,** please read/watch the following and then take [Quiz 3](/quiz3/) on D2L:
+For **Monday, June 6, 7am MDT,** please read/watch the following and then take **Quiz 3** on D2L:
 
 - Isabel Peretz, ["The Nature of music from a biological perspective,"](http://eamusic.dartmouth.edu/~larry/music1052008/readings/peretz.pdf) from *Cognition* 100 (2006)  
 - *Open Music Theory*, ["Introduction to musical functions"](http://openmusictheory.com/functions.html)  
@@ -38,13 +42,16 @@ For **Monday, June 6, 7am MDT,** please read/watch the following and then take [
 - *Open Music Theory*, ["Intervals"](http://openmusictheory.com/intervals.html) (optional)  
 - *Open Music Theory*, ["Triads and seventh chords"](http://openmusictheory.com/triads.html) (optional)  
 
-For **Wednesday, June 8, 7am MDT,** please read/watch the following and then take [Quiz 4](/quiz4/) on D2L:
+For **Wednesday, June 8, 7am MDT,** please read/watch the following and then take **Quiz 4** on D2L:
 
 - *Music and Memory*, Chapter 4, "Short-Term and Working Memory"  
 - *Music and Memory*, Chapter 5, "Closure"  
 - *Music and Memory*, Chapter 11, "Melody"  
 
-For **Friday, June 10, 7am MDT,** submit five core concept videos. See the [Assignment guide](/assessments/) for details.
+For **Friday, June 10, 7am MDT,** submit two core concept videos. See the [Assignment guide](/assessments/) for details.
+
+For **Friday, June 10, 7am MDT,** submit two core concept paragraphs. See the [Assignment guide](/assessments/) for details.
+
 
 ### Supplemental material
 
@@ -66,12 +73,3 @@ Snyder also mentions some non-Western musical cultures that incorporate tuning s
 
 <div class="center-video">
 <iframe width="480" height="360" src="https://www.youtube.com/embed/zPIZObNdJb0" frameborder="0" allowfullscreen></iframe></div>
-
-## Learning objectives
-
-This unit is directed towards the following student goals:
-
-- ability to recognize, recall, and/or find basic information about the core concepts listed above  
-- ability to synthesize and apply the core concepts listed above, individually or in collaboration with others, in a written explanation  
-- ability to articulate an accurate definition and at least one example of application about the core concepts from Weeks 1 and 2 in one's own words  
-- contribute to public understanding of the relationship between music and cognitive science  
