@@ -25,7 +25,7 @@ Term: Summer 2016 (June)
 Instructor: [Kris Shaffer, Ph.D.](http://kris.shaffermusic.com)  
 Email: kris.shaffer@colorado.edu (backup: kris.shaffer@gmail.com)  
 Twitter: @krisshaffer  
-Course website: [muscog.cubouldermusictheory.com](http://muscog.cubouldermusictheory.com/)  
+Course website: [cognition.shaffermusic.com](http://cognition.shaffermusic.com/)  
 Online community: [Slack](https://muscog16.slack.com)  
 Gradebook:  D2L
 
