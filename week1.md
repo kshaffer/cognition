@@ -11,7 +11,8 @@ image: memory.jpg
 **Wednesday, June 1:** introductions (see [Getting started](/introductions/))  
 **Wednesday, June 1 (due 7am MDT):** reading and quiz 1  
 **Thursday, June 2, 10am MDT:** Video office hours  
-**Friday, June 3 (due 7am MDT):** reading and quiz 2
+**Friday, June 3 (due 7am MDT):** reading and quiz 2  
+**Friday, June 3 (due 7am MDT):** Complete office hours poll
 
 ## Unit introduction
 
@@ -61,3 +62,5 @@ For **Friday, June 3, 7am MDT,** please read/watch the following and then take *
 - *Music and Memory*, Chapter 10, "Event Fusion"  
 
 Keep in mind the collaborative nature of the D2L quizzes. See the [Assignment guide](/assessments/) for details.
+
+Also for **Friday, June 3, 7am MDT,** please fill out [this poll](https://docs.google.com/forms/d/1pgczkgZn-vb0eEIlOGIRKS8PFADFqh4HFe5w486B12o/viewform?usp=send_form) about online office hours preferences.
