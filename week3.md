@@ -54,7 +54,7 @@ For **Wednesday, June 15, 7am MDT,** please read/watch the following and then ta
 - *Sweet Anticipation*, Chapter 11, "Genres, schemas, firewalls"  
 - Robert O. Gjerdingen, ["Defining Schemata"](https://drive.google.com/file/d/0B9o4hmKNoi6caHZNakRXTktScU0/view?usp=sharing) (from *Music in the Galant Style*)  
 - Kris Shaffer, ["Style and Tendency"](http://openmusictheory.com/tendency.html), from *Open Music Theory* (feel free to skim through the discussion of voice-leading rules)  
-- Allan F. Moore, [quote on the distinction between style and genre](http://sketches.shaffermusic.com/2015/on-the-distinction-between-style-and-genre-popmusicevolution), from "Categorical Conventions in Music Discourse: Style and Genre"  
+- Allan F. Moore, [quote on the distinction between style and genre](http://sketches.shaffermusic.com/2016/allan-f-moore-on-the-difference-between-style-and-genre), from "Categorical Conventions in Music Discourse: Style and Genre"  
 - Robert O. Gjerdingen & David Perrott, ["Scanning the dial: The rapid recognition of music genres"](http://faculty-web.at.northwestern.edu/music/gjerdingen/Papers/PubPapers/Scanning.pdf)  
 
 For **Friday, June 17, 7am MDT,** submit two core concept videos on concepts *from the Week 3 list only (see above).* See the [Assignment guide](/assessments/) for details. If you need to reassess *a single video submission* from Week 2, please include it with your new videos for Week 3. (Keep in mind that only assignments that were submitted to begin with will be considered for a reassessment.)

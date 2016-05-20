@@ -7,8 +7,10 @@ image: memory.jpg
 
 ## Schedule
 
+**Tuesday, May 31, 7pm MDT:** Video office hours  
 **Wednesday, June 1:** introductions (see [Getting started](/introductions/))  
 **Wednesday, June 1 (due 7am MDT):** reading and quiz 1  
+**Thursday, June 2, 10am MDT:** Video office hours  
 **Friday, June 3 (due 7am MDT):** reading and quiz 2
 
 ## Unit introduction
