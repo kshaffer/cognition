@@ -8,7 +8,7 @@ image: memory.jpg
 ## Schedule
 
 **Tuesday, May 31, 7pm MDT:** Video office hours  
-**Wednesday, June 1:** introductions (see [Getting started](/introductions/))  
+**Wednesday, June 1, (due 7am MDT):** introductions (see [Getting started](/introductions/))  
 **Wednesday, June 1 (due 7am MDT):** reading and quiz 1  
 **Thursday, June 2, 10am MDT:** Video office hours  
 **Friday, June 3 (due 7am MDT):** reading and quiz 2  
@@ -40,7 +40,7 @@ In this unit, we will explore the following core concepts:
 
 On **Tuesday, May 31, 7pm MDT,** we will have our first video office hours. A link to the chat is [here](https://cuboulder.zoom.us/j/744475203) (password is provided on D2L). This is the prime opportunity for some (if not all) of us to discuss things live, as a group. We will use Zoom, a video conferencing app supported by CU's Office of Information Technology. Please visit OIT's [Zoom support page](http://www.colorado.edu/oit/services/conferencing-services/web-conferencing-zoom) for information on setting up your account and downloading the software. There are both desktop and mobile versions. (It is possible to participate via phone instead of the app. See OIT's instructions, and contact me if you need help.)
 
-For **Wednesday, June 1, 3pm MDT,** complete the introductory activities. See [Getting started](/introductions/) for details.
+For **Wednesday, June 1, 7am MDT,** complete the introductory activities. See [Getting started](/introductions/) for details.
 
 For **Wednesday, June 1, 7am MDT,** please read/watch the following and then take **Quiz 1** on D2L:
 
