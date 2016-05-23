@@ -40,7 +40,7 @@ Each video will be worth three points: one point for the attempt, one point for 
 
 I've created two sample videos that you can use as models: [Habituation](https://vimeo.com/129590808) and [Learned Auditory Grouping](https://vimeo.com/129686217).
 
-You are welcome — indeed *encouraged* — to discuss these videos and share example ideas with each other in Slack. That will help you solidify the concepts in your own mind. However, be sure that any examples you borrow from others really are correct before you submit, and be sure that all definitions and explanations are in your own words. *In contrast to the reading quizzes, any "joint solutions" on the paragraphs will be considered an honor code violation.* Use each other to sharpen your understanding, but be sure that these paragraphs reflect your own thoughts expressed in your own words.
+You are welcome — indeed *encouraged* — to discuss these videos and share example ideas with each other in Slack. That will help you solidify the concepts in your own mind. However, be sure that any examples you borrow from others really are correct before you submit, and be sure that all definitions and explanations are in your own words. *In contrast to the reading quizzes, any "joint solutions" on the videos will be considered an honor code violation.* Use each other to sharpen your understanding, but be sure that these videos reflect your own thoughts expressed in your own words.
 
 
 ## Conceptual paragraphs  
