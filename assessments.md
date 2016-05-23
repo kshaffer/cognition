@@ -45,7 +45,7 @@ You are welcome — indeed *encouraged* — to discuss these videos and share ex
 
 ## Conceptual paragraphs  
 
-At the end of each week (starting in Week 2), you will choose two of the core concepts – *for which you did not also make a video* – and write a single paragraph (approx. 100–200 words) explaining that concept in your own words. That paragraph should include three key elements:
+At the end of each week (starting in Week 2), you will choose two of the core concepts – *for which you did not also make a video* – and write two paragraphs (approx. 100–200 words each), one per concept, explaining that concept in your own words. Each paragraph should include three key elements:
 
 - an accurate definition of the concept in your own words (not a quote from the textbook or other source)  
 - reference to a specific piece or passage of music that exemplifies that concept  
