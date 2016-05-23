@@ -25,4 +25,6 @@ Welcome! As you're gearing up for the course, please be sure to examine the [syl
 
 These three things are an easy way to get **your first assessment points**, but more importantly, they will help us build a collaborative, mutually beneficial community for this course.
 
+***Be sure to see the [Week 1 Guide](/week1/) as well, as this is not the only assignment due on Wednesday, June 1.***
+
 Note: We will be using both public and private online fora for class discussions. Because things posted online disappear far more slowly than things that are spoken (if they ever disappear), and since typed text lacks the nuances of body language, facial expressions, and tone of voice, it is even more important to take care in promoting an environment of openness and respect. Please review the "professional courtesy" section on my [course policies](/policies/) document, and commit to doing your part to foster an environment where intellectual challenges are welcome, but always put forward with the utmost respect.
