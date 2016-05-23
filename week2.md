@@ -8,7 +8,6 @@ image: string.jpg
 ## Schedule
 
 **Monday, June 6 (due 7am MDT):** reading and quiz 3  
-**Wednesday, June 8 (due 8am MDT):** concept map contributions due  
 **Wednesday, June 8 (due 7am MDT):** reading and quiz 4  
 **Friday, June 10 (due 7am MDT):** core concept video submissions due  
 **Friday, June 10 (due 7am MDT):** core concept paragraph submissions due  
