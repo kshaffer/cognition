@@ -9,6 +9,7 @@ image: string.jpg
 
 **Monday, June 6 (due 7am MDT):** reading and quiz 3  
 **Wednesday, June 8 (due 7am MDT):** reading and quiz 4  
+**Thursday, June 9, 7am MDT:** Video office hours  
 **Friday, June 10 (due 7am MDT):** core concept video submissions due  
 **Friday, June 10 (due 7am MDT):** core concept paragraph submissions due  
 
@@ -46,6 +47,8 @@ For **Wednesday, June 8, 7am MDT,** please read/watch the following and then tak
 - *Music and Memory*, Chapter 4, "Short-Term and Working Memory"  
 - *Music and Memory*, Chapter 5, "Closure"  
 - *Music and Memory*, Chapter 11, "Melody"  
+
+On **Thursday, June 2, 10am MDT,** we will have our second video office hours. A link to the chat is [here](https://cuboulder.zoom.us/j/197717495) (password is provided on D2L).  Please visit OIT's [Zoom support page](http://www.colorado.edu/oit/services/conferencing-services/web-conferencing-zoom) for information on setting up your Zoom account and downloading the software for the video chat. There are both desktop and mobile versions. (It is possible to participate via phone instead of the app. See OIT's instructions, and contact me if you need help.)
 
 For **Friday, June 10, 7am MDT,** submit two core concept videos. See the [Assignment guide](/assessments/) for details.
 
