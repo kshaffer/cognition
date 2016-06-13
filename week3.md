@@ -46,7 +46,7 @@ For **Monday, June 13, 7am MDT,** please read/watch the following and then take 
 - *Music and Memory*, Chapter 7, "Categories"  
 - *Music and Memory*, Chapter 12, "Rhythm"  
 
-For **Wednesday, June 15, 7am MDT,** submit three written explanations of the relationship between two different core concepts on our emerging concept map (link forthcoming). See the [Assignment guide](/assessments/) for details on the expectations and collaborative opportunities for this assignment.
+For **Wednesday, June 15, 7am MDT,** submit three written explanations of the relationship between two different core concepts on [our emerging concept map](https://prezi.com/aerjidemdhqx/music-cognition-2016/). See the [Assignment guide](/assessments/) for details on the expectations and collaborative opportunities for this assignment.
 
 For **Wednesday, June 15, 7am MDT,** please read/watch the following and then take **Quiz 6** on D2L:
 

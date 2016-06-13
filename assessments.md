@@ -75,7 +75,8 @@ Please note that you do not have to build your own map, simply submit your writt
 <iframe src="https://player.vimeo.com/video/127973049" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/127973049">Building a concept map</a> from <a href="https://vimeo.com/user11692346">Kris Shaffer</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 </div>
 
-***Prezi map to be added once the first round of videos are posted.***
+<iframe id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" width="550" height="400" src="https://prezi.com/embed/aerjidemdhqx/?bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=0&amp;autohide_ctrls=0&amp;landing_data=bHVZZmNaNDBIWnNjdEVENDRhZDFNZGNIUE43MHdLNWpsdFJLb2ZHanI5Z1NXR2ZvR2trTTV6dnRtMENXcmFMbExBPT0&amp;landing_sign=rKZidgpR-lnlpzl1zbNa-FMm6W5AXEV-WFmUBYJK2y4"></iframe>
+
 
 
 ## Final project
