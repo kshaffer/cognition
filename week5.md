@@ -7,7 +7,7 @@ image: water.jpg
 
 ## Schedule
 
-**Wednesday, June 29 (due 7am MDT):** concept map contributions due  
+**Friday, July 1 (due 7am MDT):** concept map contributions due  
 **Friday, July 1 (due 7am MDT):** Week 4 video reassessments due  
 **Friday, July 1 (due 7am MDT):** final projects and reassessments due
 
@@ -15,7 +15,7 @@ image: water.jpg
 
 ## Assignments
 
-For **Wednesday, June 29, 7am MDT,** submit three written explanations of the relationship between two different core concepts on our emerging [concept map](https://prezi.com/ntsoqg1f9m7i/music-cognition/). These relationships should each involve at least one concept from Week 4. (Connections between two Week 4 concepts, or between one Week 4 concept and one concept from earlier weeks are both fair game.) See the [Assignment guide](/assessments/) for details on the expectations and collaborative opportunities for this assignment.
+For **Friday, July 1, 7am MDT,** submit three written explanations of the relationship between two different core concepts on our emerging [concept map](https://prezi.com/ntsoqg1f9m7i/music-cognition/). These relationships should each involve at least one concept from Week 4. (Connections between two Week 4 concepts, or between one Week 4 concept and one concept from earlier weeks are both fair game.) See the [Assignment guide](/assessments/) for details on the expectations and collaborative opportunities for this assignment.
 
 For **Friday, July 1, 7am MDT,** if you did not receive full marks on one of your week 4 videos, you may submit a reassessment *of a single video*.
 
